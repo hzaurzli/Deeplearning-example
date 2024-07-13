@@ -1,0 +1,990 @@
+	Domain	Phylum	Class	Order	Family	Genus	Species	RandomForestExp	RandomForestPrefer	pH	SOC	TN	MAT	MaxTWarmM	MAP	PWetM	NDVI	ClusterNames
+OTU_10	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	Bradyrhizobium sp.	61.88062668	pH	-0.303498986		-0.182397444	-0.209906375					Low pH
+OTU_100	Bacteria	Actinobacteriota	Rubrobacteria	Rubrobacterales	Rubrobacteriaceae	Rubrobacter	metagenome	59.29649098	pH	0.215954973	-0.182293943	0.220166094	-0.196816762					High pH and TN with low SOC
+OTU_1000	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	metagenome	28.22477961	pH									
+OTU_1001	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	35.68211528	pH		-0.240080374	0.148238069	-0.240035951	0.15476464				Low SOC
+OTU_1004	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	48.18727437	NDVI	-0.211880779				-0.15591682		-0.16356582		Low pH
+OTU_1005	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	Unclassified	metagenome	37.234269	SMDR		0.157242339							High SOC
+OTU_1009	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Planococcus	Planococcus rifietoensis	4.673718313	STAR			0.184820288						
+OTU_1014	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Flavisolibacter	Unclassified	64.38037009	pH		0.187352608				-0.163673171	0.263161018		High PWetM
+OTU_1015	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	Nordella	Unclassified	51.30481351	pH		-0.149159646		-0.296298243					
+OTU_1018	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	23.10300618	pH									
+OTU_1021	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Unclassified	Unclassified	52.84145111	pH	-0.224502119	0.224880093	-0.218270233	-0.191940608					Low pH
+OTU_1022	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	Unclassified	metagenome	63.21340217	pH	-0.28521523	0.148494939							Low pH high SOC
+OTU_1023	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys	metagenome	36.27534524	pH	-0.22648913	0.13837543							Low pH high SOC
+OTU_1027	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	Unclassified	Unclassified	62.60946373	pH	-0.303444773	0.182808021		0.15431428			0.147934507		Low pH high SOC
+OTU_103	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Pseudaminobacter	Unclassified	47.81146438	SMeanTWarmQ		-0.277836056	0.179689521	-0.331985292	0.154508652		-0.193195767		Low SOC
+OTU_1030	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium-Methylorubrum	Methylobacterium brachiatum	27.83516473	SOC									
+OTU_1031	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Domibacillus	Unclassified	12.60835953	PWetM									
+OTU_1035	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Unclassified	39.42868905	TN				-0.230591753	0.208470284		-0.186306775	0.235232719	High MaxTWarmM
+OTU_1038	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Unclassified	Unclassified	Unclassified	21.96450327	SOC									
+OTU_1039	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	Unclassified	Unclassified	Unclassified	47.44053529	TN	-0.188977504	-0.17145601		-0.245229278			-0.182983207	0.166541004	Low pH low MAT
+OTU_104	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	42.27768807	TN			0.162817605		-0.145546119				
+OTU_1041	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Rhizobacter	Unclassified	47.80821988	pH									
+OTU_1043	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	35.63569568	SOC	-0.27896372	0.252546176	-0.183879358		-0.15531443				Low pH high SOC
+OTU_105	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	36.876404	pH	-0.447538855			-0.143087039	0.199831089				Low pH low MAT
+OTU_1050	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	-8.083959977	STempSeason									
+OTU_1055	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	52.30159645	pH	0.319732856								High pH
+OTU_1058	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	Unclassified	Unclassified	62.40323679	pH	0.307638132	-0.298680909	0.204164873	-0.19062646					High pH and TN with low SOC
+OTU_106	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	metagenome	48.32029842	pH									
+OTU_1064	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Kibdelosporangium	Unclassified	29.6940542	pH	0.238082306		0.252189695			-0.179375589	0.23300595		High pH
+OTU_1068	Bacteria	Desulfobacterota	Unclassified	delta proteobacterium WX81	Unclassified	Unclassified	Unclassified	46.64189073	MeanTWarmQ								0.195246615	High NDVI
+OTU_107	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Unclassified	Unclassified	70.94777208	pH	0.34755052		0.184350616		-0.136224732				High pH
+OTU_1073	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	52.41419082	MAP					-0.139129989	-0.149811181			
+OTU_10738	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	-26.99581361	pH									
+OTU_10739	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	18.2912407	STempSeason									
+OTU_1074	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Xylophilus	metagenome	25.30421718	MeanTWetQ									
+OTU_10743	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	30.33555373	TempSeason				-0.151508239	0.253340348				High MaxTWarmM
+OTU_1077	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Puia	Unclassified	51.63714004	pH	0.2836752				-0.15142715	-0.202289211	0.207301226		High pH
+OTU_1078	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Occallatibacter	Unclassified	28.31415101	STAR	-0.245908727			0.171320337	-0.260923646		0.175352348	-0.15393284	Low pH high SOC
+OTU_1079	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Devosiaceae	Devosia	metagenome	12.74563458	pH									
+OTU_1082	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	47.37032409	SMaxTWarmM					0.21190901				High MaxTWarmM
+OTU_109	Bacteria	Chloroflexi	Chloroflexia	Thermomicrobiales	JG30-KF-CM45	Unclassified	Unclassified	48.70587261	TN					-0.137929508				
+OTU_1094	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Unclassified	Unclassified	53.94917326	pH	0.188139717					-0.145491567			High pH
+OTU_1095	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	57.08550994	SOC				-0.162025757			0.206033917		High PWetM
+OTU_1096	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	54.28442501	pH	0.285534929			0.147250856		-0.167759523		0.165130003	High pH
+OTU_1098	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Flavisolibacter	Unclassified	56.06115452	TN		0.242900837			0.148579671				High MaxTWarmM
+OTU_11	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Unclassified	16.23152468	SOC									
+OTU_1105	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	Unclassified	51.43155534	NDVI	0.281200561	-0.175432778							High pH
+OTU_1106	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Ellin6055	Unclassified	52.37523277	SMAT				-0.329658491	0.140804201			0.16078364	High MaxTWarmM
+OTU_1115	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	Unclassified	32.63839735	pH		-0.179477495		-0.197446916				0.180578114	Low SOC
+OTU_1116	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Unclassified	-6.673632742	pH									
+OTU_1117	Bacteria	Entotheonellaeota	Entotheonellia	Entotheonellales	Entotheonellaceae	Unclassified	Unclassified	75.59117511	pH	0.334144029		0.136992796				0.134373279		High pH
+OTU_112	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas	Unclassified	65.69514113	SMDR	-0.366185653				0.174225763		-0.137808561	0.149811727	Low pH
+OTU_1120	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Virgisporangium	Unclassified	34.83211384	MAP	0.216014403				0.153427289				High MaxTWarmM
+OTU_1121	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora chokoriensis	7.389708803	SMaxTWarmM									
+OTU_1128	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	Unclassified	47.53711603	PDryM	-0.234487387			0.188036335	-0.236023776		0.211158446		Low pH high SOC
+OTU_113	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Kribbella	Unclassified	32.56687914	pH	0.151577884			0.14464167		-0.246920666	0.176076829	0.167679646	High pH
+OTU_11334	Bacteria	RCP2-54	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	87.25611193	STempSeason									
+OTU_1137	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	37.03951214	pH	0.351142623					-0.204568642			High pH
+OTU_114	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	73.19151262	pH				-0.140264493		-0.17994705			
+OTU_1141	Bacteria	Actinobacteriota	Actinobacteria	Kineosporiales	Kineosporiaceae	Unclassified	Unclassified	11.90261315	TN									
+OTU_1143	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Unclassified	31.57216236	SOC									
+OTU_1147	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Unclassified	Unclassified	47.39815232	pH	-0.138683226			-0.137065768	0.134607381				Low pH
+OTU_1149	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	metagenome	31.32542394	pH	0.250470834								High pH
+OTU_1150	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	metagenome	51.061725	pH	0.30368679		0.221545964						High pH
+OTU_1153	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Ellin6067	Unclassified	18.27618937	TN									
+OTU_116	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	metagenome	Unclassified	82.80011369	SMaxTWarmM	-0.281961882		-0.171034453	-0.13778935	-0.172377878				Low pH
+OTU_1163	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	54.94005627	pH								-0.14038068	
+OTU_1165	Bacteria	Actinobacteriota	Actinobacteria	Kineosporiales	Kineosporiaceae	Unclassified	Unclassified	21.06812194	SOC									
+OTU_1167	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	69.4682809	TempSeason	-0.150792743			0.13568884	-0.138043758		0.149877678		Low pH high SOC
+OTU_1169	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	Bauldia	Unclassified	39.72579296	pH	-0.215600023		-0.135632512						Low pH
+OTU_1172	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Marmoricola	Marmoricola sp.	39.15746723	pH			-0.146170089			-0.200616827	0.276299972	0.144455133	High PWetM
+OTU_118	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	Unclassified	Unclassified	63.96389274	SMDR	-0.376001375		-0.14292868						Low pH high SOC
+OTU_1182	Bacteria	Myxococcota	Polyangia	Polyangiales	BIrii41	metagenome	Unclassified	58.94700739	pH		0.377126779	-0.172864914	0.202100007	-0.188576873				High SOC
+OTU_11857	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	53.49707552	TempSeason		-0.169521949							
+OTU_1189	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Unclassified	Unclassified	15.95835887	SOC									
+OTU_119	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	59.33765108	PrecSeason		0.15523325			0.237975137	-0.193100214			High MaxTWarmM
+OTU_1190	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella	metagenome	75.99747187	SOC	0.449989995	-0.234735055	0.353410024						High pH and TN with low SOC
+OTU_1193	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Pseudoduganella	Unclassified	8.207938452	pH				-0.142832433	0.203109096				High MaxTWarmM
+OTU_1194	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	35.34856716	SMaxTWarmM	-0.140319952		-0.152432878				0.152557571		
+OTU_1195	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	OLB17	Unclassified	43.81903819	PWarmQ		-0.218562207	0.164341798						Low SOC
+OTU_12	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys	Unclassified	72.46123871	NDVI	-0.293645244	0.152739378		0.133181394	-0.159182516				Low pH high SOC
+OTU_1201	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Geodermatophilaceae	Blastococcus	Unclassified	46.42531196	pH	0.388008521		0.16069562						High pH
+OTU_1206	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Unclassified	Unclassified	Unclassified	25.44942445	NDVI									
+OTU_1208	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Terrimonas	Unclassified	46.99865061	MeanTWetQ	0.347638459								High pH
+OTU_12085	Bacteria	WPS-2	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	-3.000139268	PWetM									
+OTU_121	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Unclassified	39.59096736	SIsothermality	-0.169268927	-0.135866359		-0.14183373	0.195980959	-0.177403707	0.145140628	0.140340735	Low pH
+OTU_1211	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	Unclassified	-4.433995329	TempSeason									
+OTU_1213	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	MND1	Unclassified	45.30851837	pH		0.230676133					0.221907713		High SOC
+OTU_1215	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Unclassified	36.9542233	pH		-0.139420104	0.135217453			-0.203463549	0.188405974		High PWetM
+OTU_122	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	39.22730862	pH		-0.232610664	0.271247491						Low SOC
+OTU_1220	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	MND1	Unclassified	56.60924533	pH									
+OTU_1223	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Rhizocola	Unclassified	51.42085851	STAR	0.231512162	-0.260729499	0.272262539	-0.224600062	0.218354075	0.136089619	-0.226612867	0.14918768	Low SOC
+OTU_1224	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	26.81481714	PDryQ									
+OTU_1225	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces puniciscabiei	8.64978958	TN									
+OTU_1229	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Unclassified	Unclassified	36.345866	pH							0.148794035		High PWetM
+OTU_1235	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	Ellin517	Unclassified	84.59688753	PWarmQ		0.220767648		0.135603255		-0.165692538	0.210336535		High PWetM
+OTU_1236	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	Pararhizobium giardinii	39.91298405	SOC	0.32668475	-0.361884535	0.262325985	-0.179368048		0.149023904			High pH and TN with low SOC
+OTU_124	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	metagenome	Unclassified	Unclassified	57.81400749	pH	-0.202073549			-0.159963513			-0.140401302	0.172455384	Low pH low MAT
+OTU_1240	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	60.51921384	TN	0.272997455		0.158101244				0.134932592		High pH
+OTU_1244	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Microscillaceae	Unclassified	Unclassified	57.43743498	MDR	0.395203934	-0.138668761	0.283789221				-0.183226617		High pH and TN with low SOC
+OTU_1248	Bacteria	Actinobacteriota	Actinobacteria	Kineosporiales	Kineosporiaceae	Unclassified	Unclassified	31.08889907	SOC	-0.288913883			-0.163769737	0.159221724				Low pH low MAT
+OTU_125	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	69.84858608	TN	0.441487516			0.15428408					High pH
+OTU_1258	Bacteria	Firmicutes	Bacilli	Alicyclobacillales	Alicyclobacillaceae	Tumebacillus	Unclassified	48.73803206	pH									
+OTU_126	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	42.02830151	Isothermality	-0.33009394		-0.246226457	-0.201993694	0.150777941				Low pH
+OTU_1261	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudorhodoplanes	Unclassified	32.99542888	TN								0.16259958	High NDVI
+OTU_1262	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	41.13423459	SMaxTWarmM						-0.170916304	0.149643813	0.157784842	High PWetM
+OTU_1264	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Unclassified	Unclassified	63.51253926	PDryM	-0.290385502								Low pH
+OTU_1267	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Parafilimonas	Unclassified	68.47013264	pH	-0.141147502	0.158228226							Low pH high SOC
+OTU_1271	Bacteria	Desulfobacterota	Unclassified	metagenome	Unclassified	Unclassified	Unclassified	47.24336826	TN		0.184717661						0.139234482	High NDVI
+OTU_1274	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	Unclassified	Unclassified	50.18224701	pH	-0.240557999								Low pH
+OTU_1279	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	AKYH767	metagenome	Unclassified	53.2239727	pH		0.151868548	-0.178675755						High SOC
+OTU_128	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	Unclassified	52.64085106	pH	0.174240942	-0.233456375	0.151152724		-0.134039512			0.190632514	Low SOC
+OTU_1287	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	Paraburkholderia hospita	14.25820177	pH									
+OTU_1289	Bacteria	Actinobacteriota	Thermoleophilia	Unclassified	Unclassified	Unclassified	Unclassified	63.48302757	pH	0.440517474	-0.250251664	0.231476406						High pH and TN with low SOC
+OTU_129	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	metagenome	Unclassified	60.87923961	pH	-0.381502618	0.144484688							Low pH high SOC
+OTU_1294	Bacteria	Desulfobacterota	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	71.73442485	pH	0.290588121		0.240143769				-0.134943998	0.183397016	High pH
+OTU_1298	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	30.53071844	TN	-0.306928809								Low pH
+OTU_13	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	Unclassified	47.40169338	pH	-0.454000307								Low pH
+OTU_1306	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	KF-JG30-B3	Unclassified	Unclassified	58.85491214	pH	-0.133726318	0.13762541							Low pH high SOC
+OTU_1315	Bacteria	Chloroflexi	KD4-96	Unclassified	Unclassified	Unclassified	Unclassified	43.33200258	pH					0.139928833	-0.205791416	0.198683684	0.176368003	High PWetM
+OTU_1326	Bacteria	Proteobacteria	Alphaproteobacteria	Dongiales	Dongiaceae	Dongia	metagenome	38.77229052	TN		0.196291199			0.183320729				High MaxTWarmM
+OTU_1329	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora coxensis	17.12344767	STAR									
+OTU_1330	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Unclassified	72.7332363	SOC	0.367385781	-0.15642625	0.172884434	0.139661077			0.140410973		High pH and TN with low SOC
+OTU_1331	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylocella	Unclassified	15.7554079	TN									
+OTU_1333	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	55.95868482	pH	-0.173781607	0.186635874	-0.22851826						High SOC
+OTU_1335	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Terrimonas	Unclassified	55.11982375	TN	0.241156126				-0.163055103			0.147604829	High pH
+OTU_1338	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Rhizobacter	Rhizobacter gummiphilus	16.19166691	PWarmQ									
+OTU_134	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	53.80666098	pH						-0.224583193	0.27730864		High PWetM
+OTU_1341	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	0.598817766	pH	-0.135789413								Low pH
+OTU_1344	Bacteria	Chloroflexi	KD4-96	Unclassified	Unclassified	Unclassified	Unclassified	13.09931992	pH									
+OTU_1346	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	Steroidobacter	Unclassified	55.58050402	pH	0.481261219	-0.153931292	0.310262305						High pH and TN with low SOC
+OTU_13496	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	Candidatus Protochlamydia	Unclassified	54.37724635	pH									
+OTU_1353	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	19.29389976	pH									
+OTU_13541	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	60.14054487	pH									
+OTU_136	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella	metagenome	68.47456189	pH					-0.176696415				
+OTU_1360	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Virgisporangium	Unclassified	28.62685367	pH	0.319716329				0.187424431			0.149568996	High pH
+OTU_1362	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Unclassified	Unclassified	16.34475964	TN									
+OTU_1363	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Unclassified	Unclassified	34.3203645	PWetM		0.143340282							High SOC
+OTU_1365	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodomicrobiaceae	Rhodomicrobium	Unclassified	39.33023707	NDVI	0.13538922								High pH
+OTU_137	Bacteria	Actinobacteriota	Rubrobacteria	Rubrobacterales	Rubrobacteriaceae	Rubrobacter	Unclassified	45.82063092	PWarmQ	0.157456395				0.339911955				High MaxTWarmM
+OTU_1370	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unclassified	Acidibacter	Unclassified	29.76936341	TN	-0.223148559								Low pH
+OTU_1372	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	25.26029169	pH									
+OTU_1375	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Geodermatophilaceae	Unclassified	Unclassified	30.69660699	PColdQ					0.249856791		0.145901338		High PWetM
+OTU_1376	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	metagenome	42.36874695	pH	0.201198961		0.24432673			-0.144958838		0.26307839	High pH
+OTU_1378	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Opitutus	metagenome	61.90272211	pH	0.133138697	0.154118756					0.133783999		High PWetM
+OTU_138	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	Unclassified	Unclassified	Unclassified	66.41476361	MeanTWarmQ	-0.134000994	0.289060557	-0.177594488						High SOC
+OTU_1384	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	43.05504207	PrecSeason		0.221647519	-0.23326323			-0.227832967	0.207630308		High PWetM
+OTU_1386	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Unclassified	Unclassified	Unclassified	44.53127439	pH					0.137386539				High MaxTWarmM
+OTU_1397	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Unclassified	Unclassified	52.84062378	MeanTWetQ	-0.155769267	0.134753488			-0.264340275		0.153334347		Low pH high SOC
+OTU_14	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methyloligellaceae	Unclassified	metagenome	51.67478578	pH								0.309502224	High NDVI
+OTU_140	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Luedemannella	metagenome	50.06283995	TN	-0.241627105			-0.151117116			-0.2039445	0.141745557	Low pH low MAT
+OTU_1401	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	55.41063161	PrecSeason		0.238293037	-0.139651136			-0.256320088	0.288179984		High PWetM
+OTU_1403	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Ellin6067	Unclassified	45.29743351	MeanTWarmQ									
+OTU_1406	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	53.16059056	pH	0.275599489					-0.197543688			High pH
+OTU_1409	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	89.12792324	STempSeason	-0.191993159			0.158266598	-0.159747539		0.199473477		Low pH high SOC
+OTU_141	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	60.97181758	pH	0.188639802								High pH
+OTU_1417	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium celatum	31.93119935	pH	-0.214484619								Low pH
+OTU_1418	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Unclassified	metagenome	31.73011783	pH	0.256252666	-0.214760415	0.322182653		0.161866601			0.177823501	High pH and TN with low SOC
+OTU_1419	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Edaphobaculum	metagenome	58.91343895	pH	-0.238312546								Low pH
+OTU_142	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Ellin6067	Unclassified	81.15860782	SMDR	-0.154656804	0.30424611					0.134296782		Low pH high SOC
+OTU_1420	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. GSSD-12	34.20649854	SOC		0.141391291							High SOC
+OTU_1425	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	27.14340916	Isothermality									
+OTU_1428	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	49.99313758	SMaxTWarmM		0.141794497	-0.190615584						High SOC
+OTU_1429	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	78.64726922	PrecSeason	0.304662342		0.163311105					0.199627795	High pH
+OTU_1431	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	TRA3-20	metagenome	Unclassified	44.9212663	pH		0.231603577	-0.173770309			-0.157072951	0.225480561		High PWetM
+OTU_1433	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Frankiaceae	Jatrophihabitans	Unclassified	21.75705768	pH									
+OTU_14373	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	48.16355958	SMDR	-0.307000562					-0.163984961			Low pH
+OTU_1438	Bacteria	Myxococcota	Polyangia	Polyangiales	BIrii41	Unclassified	Unclassified	41.73846439	pH	0.478303882							0.22618929	High pH
+OTU_1444	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	Unclassified	metagenome	43.52424042	pH	-0.16678603	0.179341903					0.1821371		Low pH high SOC
+OTU_14473	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Unclassified	Unclassified	48.73846377	PrecSeason									
+OTU_1455	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Terracidiphilus	Unclassified	46.56942176	pH	-0.210974911			0.136656813	-0.16417629		0.193945298		Low pH high SOC
+OTU_1456	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	Ellin516	metagenome	57.50592906	SIsothermality	-0.177581148			0.161026245			0.194000253		Low pH high SOC
+OTU_1460	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Lacunisphaera	metagenome	36.04491304	PColdQ		0.235122458							High SOC
+OTU_14610	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	21.39978693	pH									
+OTU_1464	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Altererythrobacter	Unclassified	29.28506295	pH	0.271017193								High pH
+OTU_1466	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Unclassified	23.95417084	TN									
+OTU_1473	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Edaphobacter	Unclassified	45.38394116	TN	-0.260282868	0.195768288							Low pH high SOC
+OTU_1475	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Unclassified	22.3517111	MAP									
+OTU_1479	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp.	29.57712581	TN								0.204105337	High NDVI
+OTU_148	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Devosiaceae	Devosia	metagenome	39.3134419	SOC				-0.136773893					
+OTU_1486	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	metagenome	23.60864788	pH									
+OTU_1492	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Labraceae	Labrys	Unclassified	31.302764	pH							0.15530103		High PWetM
+OTU_1495	Bacteria	Myxococcota	bacteriap25	metagenome	Unclassified	Unclassified	Unclassified	26.77068379	pH	0.351737659								High pH
+OTU_1499	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	Unclassified	21.82179562	SOC									
+OTU_15	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	36.55246282	pH	-0.389596658	0.142306516	-0.162321721						Low pH high SOC
+OTU_150	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Phyllobacterium	Phyllobacterium myrsinacearum	38.51800853	pH		-0.260565335	0.175855842	-0.369153137			-0.160922334		Low SOC
+OTU_1505	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	-9.136709716	SMeanTWarmQ	-0.226066032				-0.161966098			-0.152767022	Low pH
+OTU_1508	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Ellin6067	Unclassified	35.10706868	MeanTWarmQ	-0.205010307	0.181361087							Low pH high SOC
+OTU_151	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Unclassified	62.52040268	TN		-0.13466888		-0.456023103	0.393952857		-0.23202276	0.207687498	High MaxTWarmM
+OTU_1510	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	67.83749779	SMaxTWarmM	-0.252047968								Low pH
+OTU_153	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	53.10245659	SOC	-0.309321853			-0.243308659	0.260526071			0.167064517	Low pH low MAT
+OTU_1530	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	55.86790772	MAT									
+OTU_15313	Bacteria	WPS-2	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	66.07064461	PWetQ									
+OTU_1535	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	Nordella	Nordella oligomobilis	25.9251408	TN									
+OTU_154	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	33.97189878	SMDR	-0.272951359				0.156405828				Low pH
+OTU_1542	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	Steroidobacter	metagenome	28.03361497	TN									
+OTU_1544	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	3.098463414	pH		0.167101777							High SOC
+OTU_1545	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Lautropia	metagenome	40.64851293	TN	0.20887366								High pH
+OTU_1546	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	KF-JG30-B3	metagenome	Unclassified	69.25544206	MeanTWarmQ	-0.134872892	0.23495074							Low pH high SOC
+OTU_1548	Bacteria	Chloroflexi	KD4-96	Unclassified	Unclassified	Unclassified	Unclassified	44.88156573	SOC	0.163699638	-0.338412878	0.190996158				-0.175458364		High pH and TN with low SOC
+OTU_155	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	Unclassified	Unclassified	Unclassified	68.53183685	SMinTColdM	0.275874032		0.238186967				-0.142055476		High pH
+OTU_15526	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	51.12829859	TN									
+OTU_1553	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	Unclassified	Unclassified	Unclassified	53.6809839	pH	0.31193956		0.162576942						High pH
+OTU_1557	Bacteria	Acidobacteriota	Holophagae	Subgroup 7	Unclassified	Unclassified	Unclassified	32.81164855	TN	-0.258808548	0.148498886		0.146725218					Low pH high SOC
+OTU_1558	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Unclassified	Unclassified	50.32772796	PDryM									
+OTU_15727	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	54.48324222	PWetQ		-0.169522158							
+OTU_158	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	Unclassified	67.89606695	SMAT	0.269229158			-0.164951312		-0.160713996		0.256890602	High pH
+OTU_1580	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	Bauldia	Unclassified	41.69045013	pH	-0.317416883								Low pH
+OTU_15808	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Occallatibacter	Unclassified	73.74223296	TempSeason									
+OTU_1584	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Terrimonas	metagenome	40.82354854	pH		0.146327743		-0.133775072		0.162663853			
+OTU_1592	Bacteria	Chloroflexi	TK10	bacterium Ellin6519	Unclassified	Unclassified	Unclassified	48.51019656	STAR	-0.229373591			0.230645787	-0.235298361		0.157837401		Low pH high SOC
+OTU_1593	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys	Unclassified	4.939482337	pH		0.163171825		0.143564909	-0.223595252	-0.13553304	0.142571649		High SOC
+OTU_1597	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Unclassified	metagenome	21.00186994	PDryM									
+OTU_1599	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	metagenome	Unclassified	Unclassified	41.85658805	SMDR								0.19630949	High NDVI
+OTU_16	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	66.49092531	pH	0.307509389				0.19828332	-0.141512926		0.239034682	High pH
+OTU_160	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	63.1151978	pH	-0.264863245								Low pH
+OTU_1600	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	Unclassified	53.14886264	pH	0.156853065			-0.18503635					
+OTU_1601	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	56.21951172	PWetM	-0.171413509		0.134680275	-0.163707793	0.338724506				Low pH low MAT
+OTU_1605	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	77.24468898	pH			-0.254781899			-0.137764119			
+OTU_161	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Intrasporangiaceae	Lapillicoccus	Unclassified	42.33039443	SMDR	-0.31809811						-0.161827703	0.235105823	Low pH low MAT
+OTU_1617	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	35.21447726	TN						-0.24177492	0.165132651		High PWetM
+OTU_162	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Unclassified	Unclassified	61.39427436	SOC	0.376483873						0.150761103		High pH
+OTU_1620	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	metagenome	Unclassified	9.203380123	TN									
+OTU_1623	Bacteria	Chloroflexi	KD4-96	Unclassified	Unclassified	Unclassified	Unclassified	26.89866855	TempSeason									
+OTU_1624	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Actinophytocola	Unclassified	16.01423561	STAR									
+OTU_163	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Mesorhizobium	Mesorhizobium mediterraneum	46.33055938	pH	0.285257631								High pH
+OTU_1633	Bacteria	Acidobacteriota	Holophagae	Subgroup 7	Unclassified	Unclassified	Unclassified	32.82067642	SOC	0.168847018	-0.165685223						-0.147191535	High pH
+OTU_1639	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Unclassified	13.54140812	SOC									
+OTU_1643	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	18.29543419	SMaxTWarmM									
+OTU_1645	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	Unclassified	Unclassified	78.76676571	pH								0.162542173	High NDVI
+OTU_1652	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	26.60925023	PWetM									
+OTU_1655	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Nakamurellaceae	Nakamurella	Unclassified	50.33729817	pH	0.314066347					-0.147250311			High pH
+OTU_166	Bacteria	Proteobacteria	Alphaproteobacteria	Dongiales	Dongiaceae	Dongia	Unclassified	54.17636098	TN	0.404403116		0.269788362	-0.167074238	0.284673948				High pH and TN with low SOC
+OTU_1662	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Segetibacter	Unclassified	40.81147491	TN		0.149994801	-0.172689866			-0.1844554	0.328368455		High PWetM
+OTU_1665	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Geodermatophilaceae	Geodermatophilus	Unclassified	41.39698661	SOC						-0.176117213	0.219047039		High PWetM
+OTU_167	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax boronicumulans	17.90772342	pH									
+OTU_1671	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Noviherbaspirillum	Unclassified	10.99940842	TN									
+OTU_16732	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	69.79041347	pH	-0.246804257	0.2752874	-0.156362545						High SOC
+OTU_16747	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	98.58686623	TempSeason		-0.169522335							
+OTU_1675	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	Kribbella sp. enrichment culture clone VanCtr42	36.74969494	SOC	-0.305014089	-0.153832034		-0.170676878	0.153337709		-0.148717563	0.167396093	Low pH low MAT
+OTU_1681	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	Blastocatella	Unclassified	19.98627241	PWetM									
+OTU_1689	Bacteria	Entotheonellaeota	Entotheonellia	Entotheonellales	Entotheonellaceae	Unclassified	Unclassified	28.21348055	PrecSeason									
+OTU_1691	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	Nordella	Unclassified	40.98238938	pH	-0.247293164			-0.207195971	0.293517261				Low pH low MAT
+OTU_1692	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Altererythrobacter	Unclassified	30.79414194	SOC									
+OTU_1695	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	42.35964106	TN									
+OTU_1699	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	metagenome	Unclassified	14.10790026	MDR									
+OTU_17	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	27.63197288	pH	-0.429198821				0.199871588				Low pH low MAT
+OTU_170	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unclassified	Acidibacter	Unclassified	55.06165028	TN	0.241379318	0.223947801							High SOC
+OTU_1718	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	metagenome	17.465667	Isothermality									
+OTU_172	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	TRA3-20	metagenome	Unclassified	75.98241582	SMDR		0.261517457							High SOC
+OTU_1724	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Unclassified	55.95000635	SIsothermality					0.266387067		0.182531764		High PWetM
+OTU_1730	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Cryptosporangiaceae	Cryptosporangium	Cryptosporangium japonicum	11.16721571	SOC									
+OTU_1731	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	Unclassified	metagenome	37.76027947	PrecSeason		0.178152692		-0.171398328	0.214684279				High MaxTWarmM
+OTU_174	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Unclassified	39.71517716	MDR				-0.224754197	0.188558991			0.213414709	High MaxTWarmM
+OTU_1741	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Aeromicrobium	Unclassified	36.47652168	MDR	0.201099289					-0.14486031	0.159299702		High pH
+OTU_1752	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Ellin6055	Unclassified	30.20466156	STAR									
+OTU_1758	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	27.22411953	pH		0.229548651	-0.194496969		-0.15676121				High SOC
+OTU_176	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Piscinibacter	Unclassified	64.13731157	TN	-0.138904774	0.25644903							Low pH high SOC
+OTU_1760	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	TRA3-20	Unclassified	Unclassified	49.87076906	STAR		0.189775665				-0.215475406	0.157668238		High PWetM
+OTU_1768	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	Unclassified	Unclassified	Unclassified	17.86967957	SOC									
+OTU_1769	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	Unclassified	Unclassified	Unclassified	62.77635202	pH	0.314236394	-0.142448197	0.221739806						High pH and TN with low SOC
+OTU_177	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	Unclassified	Unclassified	Unclassified	60.71192874	PWarmQ							-0.166710316		
+OTU_17753	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	61.56874791	TN		-0.139142866			-0.217327235				
+OTU_1778	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	28.32203922	pH	-0.317467632								Low pH
+OTU_1781	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	8.21066093	NDVI									
+OTU_1785	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	-0.302460294	PDryM									
+OTU_1791	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	Unclassified	Unclassified	52.60426382	SOC	0.146690816			0.157432095				-0.270763883	
+OTU_1796	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Luedemannella	Unclassified	67.53717458	PDryM					0.140587244		-0.249145698		
+OTU_18	Bacteria	Chloroflexi	KD4-96	metagenome	Unclassified	Unclassified	Unclassified	63.40617967	PWetM	-0.137296314	-0.423728304	0.2414388				-0.234372523	0.321176648	Low pH low MAT
+OTU_1801	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	58.33533578	pH	-0.203411178			-0.146512855					Low pH
+OTU_1807	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	42.71816174	PWarmQ	0.17772279			-0.150306657	0.326772115				High MaxTWarmM
+OTU_1817	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unclassified	Acidibacter	Unclassified	33.81244118	TN					0.202519545	-0.134094788	0.189393681		High PWetM
+OTU_1826	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Unclassified	20.66215477	Isothermality									
+OTU_1828	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	Unclassified	-0.461556087	TN				-0.135524283	0.228336749				High MaxTWarmM
+OTU_183	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	63.20516695	pH	-0.26239458			-0.256490321	0.324805605				Low pH low MAT
+OTU_1834	Bacteria	Actinobacteriota	Thermoleophilia	Unclassified	Unclassified	Unclassified	Unclassified	70.18203765	pH	0.152217908	-0.374851093	0.225664369						High pH and TN with low SOC
+OTU_18522	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	metagenome	Unclassified	55.27012936	pH	-0.307410173								Low pH
+OTU_1853	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	TRA3-20	Unclassified	Unclassified	42.89091252	pH	0.352449979		0.294956628	-0.136909998					High pH
+OTU_1856	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	Unclassified	Unclassified	Unclassified	57.21978562	SOC	0.232293269	-0.326098715	0.219886979				0.160349203		High pH and TN with low SOC
+OTU_1862	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax avenae	16.5580788	SMaxTWarmM									
+OTU_1863	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Tardiphaga	Unclassified	20.74722242	MeanTWetQ									
+OTU_187	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Sporosarcina	Sporosarcina psychrophila	35.88935623	Isothermality									
+OTU_18705	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	68.8761612	SMaxTWarmM		-0.14172261		-0.204385862					
+OTU_1873	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Unclassified	soil metagenome	7.372731763	Isothermality									
+OTU_1879	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Piscinibacter	Unclassified	23.34253452	TN									
+OTU_188	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	Unclassified	39.07340609	pH	-0.270962846			-0.166281081	0.189148129				Low pH low MAT
+OTU_1888	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	Unclassified	metagenome	56.83520624	SOC	-0.151356094								Low pH
+OTU_1891	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	KF-JG30-B3	Unclassified	Unclassified	68.14221545	PrecSeason	0.354575633	-0.146047871	0.295557595					0.243820622	High pH
+OTU_190	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Ramlibacter	Unclassified	37.65067595	SOC	0.140121972		0.15155187	0.250296829			0.196394351		High pH
+OTU_1906	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	Unclassified	79.52965798	MeanTWetQ				-0.239264311	0.221190587	0.166193818			High MaxTWarmM
+OTU_1914	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	Unclassified	36.10351989	pH	-0.13422807								Low pH
+OTU_193	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	70.46662532	STAR	-0.315528								Low pH
+OTU_1934	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	15.06620328	pH									
+OTU_1940	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Ellin6055	Unclassified	30.88273452	TN									
+OTU_195	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	62.64034809	SOC	0.293795692	-0.196231124	0.253004611		0.143247139				High pH and TN with low SOC
+OTU_1950	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	metagenome	Unclassified	32.60640146	SOC	0.173869696					-0.247616545	0.285406281		High pH
+OTU_1955	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	metagenome	61.21039148	pH		0.193386653				-0.146040837	0.223655666		High PWetM
+OTU_1956	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unclassified	Acidibacter	Unclassified	69.17743934	SOC									
+OTU_196	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas daechungensis	53.3505647	MeanTWarmQ				-0.269865948	0.402567702			0.238822146	High MaxTWarmM
+OTU_19653	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Unclassified	Unclassified	61.93345943	pH		-0.155007374							
+OTU_19686	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	Unclassified	Unclassified	6.904019452	PColdQ									
+OTU_197	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Ellin6067	Unclassified	59.43092862	pH		0.161684615	-0.165277879	-0.136964186					High SOC
+OTU_1974	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	TRA3-20	Unclassified	Unclassified	20.7574342	TN									
+OTU_1976	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Plot4-2H12	Unclassified	24.53005312	pH									
+OTU_198	Bacteria	Acidobacteriota	Vicinamibacteria	Subgroup 17	Unclassified	Unclassified	Unclassified	60.83007923	SMDR	-0.201383152			-0.151723456					Low pH
+OTU_1985	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Arenimicrobium luteum	34.43291643	pH						-0.203645813	0.300947144		High PWetM
+OTU_1991	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	TRA3-20	Unclassified	Unclassified	50.85567669	SOC		0.188738209	-0.136366851				0.197322275		High SOC
+OTU_1992	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	Unclassified	13.7716694	MeanTWetQ									
+OTU_1994	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	46.37814642	pH					0.265545207				High MaxTWarmM
+OTU_2	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	Bradyrhizobium elkanii	67.05805979	NDVI			0.170730239	-0.155768757					
+OTU_2008	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Ramlibacter	Unclassified	7.105616373	TN							0.250615445		High PWetM
+OTU_201	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	metagenome	Unclassified	27.14442083	PrecSeason									
+OTU_2010	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Unclassified	Unclassified	32.93587106	MAP	-0.152189976						0.184419047		Low pH high SOC
+OTU_2013	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	39.16697748	SMDR									
+OTU_2018	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium	metagenome	20.68943181	pH									
+OTU_2020	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	metagenome	40.43130944	SOC	0.157366556	0.180334307							High SOC
+OTU_2021	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	Unclassified	Unclassified	26.87708595	pH									
+OTU_2028	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	Unclassified	Unclassified	55.34190548	SMDR		0.31480138	-0.178793702						High SOC
+OTU_2030	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	-2.159911298	TAR							0.139734218		High PWetM
+OTU_2031	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys	Unclassified	29.589398	pH									
+OTU_2033	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	Unclassified	25.28701773	pH									
+OTU_204	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	metagenome	58.9426964	pH	-0.408719915	0.232238465	-0.191802728		-0.237851031			-0.145398092	Low pH high SOC
+OTU_2042	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	metagenome	42.16255708	TN	0.38711574		0.18577439				0.164072714		High pH
+OTU_2043	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	Unclassified	64.81480905	SIsothermality					0.169617702				High MaxTWarmM
+OTU_2044	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	metagenome	39.59769699	SMeanTWetQ	-0.192478182		-0.173447889	-0.189932861					Low pH
+OTU_2047	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Devosiaceae	Unclassified	metagenome	29.28042693	pH	0.168317431			-0.190173213					
+OTU_2059	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	53.71141742	SOC	-0.306424704		-0.226185914						Low pH high SOC
+OTU_206	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	85.52478333	MeanTWarmQ					0.285014354				High MaxTWarmM
+OTU_2067	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 13	Unclassified	Unclassified	Unclassified	31.05332162	pH	-0.261906096								Low pH
+OTU_206701	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	18.42467167	SMeanTColdQ									
+OTU_207	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	37.63940952	pH	0.172360543	-0.149751799				-0.137615123	0.16540529		High pH
+OTU_208	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus simplex	9.350313233	Isothermality									
+OTU_2086	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	Paenibacillus alginolyticus	-5.84767255	SMDR									
+OTU_2089	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	Unclassified	Unclassified	Unclassified	68.49694413	TempSeason	-0.242886307			0.169467037	-0.188867821				Low pH high SOC
+OTU_2095	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Segetibacter	Unclassified	27.5337686	SOC									
+OTU_2097	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	TRA3-20	Unclassified	Unclassified	55.03738499	pH	0.323706176		0.178056767				0.149239648		High pH
+OTU_21	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium sp.	63.62032921	pH						-0.136015443			
+OTU_2103	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	Lysinibacillus sp. YS11	11.13928956	SOC									
+OTU_211	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	61.07249982	PrecSeason	-0.225615616		-0.19957547	-0.165059724					Low pH
+OTU_2118	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	49.26109012	MeanTWetQ	-0.266536277							-0.174048343	Low pH
+OTU_212	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Unclassified	metagenome	36.70882179	pH		0.141109749	-0.212462065			-0.202862188	0.224409371		High PWetM
+OTU_212241	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	15.32427461	TN									
+OTU_2126	Bacteria	Actinobacteriota	Thermoleophilia	Unclassified	Unclassified	Unclassified	Unclassified	20.76518012	TN									
+OTU_21315	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	metagenome	Unclassified	56.72083522	STAR	-0.327224811	0.161325444	-0.145768991		-0.170723269				Low pH high SOC
+OTU_2139	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	56.02394069	pH		0.152906737		-0.149753469				0.140699904	High NDVI
+OTU_2144	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	9.752442869	pH									
+OTU_2146	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	36.52367313	SOC	0.139548819				-0.158858654				High pH
+OTU_215	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	Unclassified	Unclassified	Unclassified	50.27769491	MeanTWarmQ			0.269313473						
+OTU_2155	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unclassified	Acidibacter	metagenome	21.56696091	TN									
+OTU_2158	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	28.13181398	Isothermality	-0.218264023	-0.166224196		-0.284049388	0.263790518			0.163108318	Low pH low MAT
+OTU_216	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	metagenome	77.21248149	pH	0.483694761	-0.270743786	0.322673829				0.138152578		High pH and TN with low SOC
+OTU_2161	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	SWB02	Unclassified	18.16784677	PWarmQ									
+OTU_2164	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	Unclassified	Unclassified	Unclassified	38.49908998	NDVI	-0.184336989								Low pH
+OTU_2174	Bacteria	Acidobacteriota	Holophagae	Subgroup 7	Unclassified	Unclassified	Unclassified	31.99174536	SOC	0.309070288			0.152437452		-0.150080735	0.150435258	0.169535766	High pH
+OTU_2177	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	57.14817323	pH	-0.228015294	0.142572281							Low pH high SOC
+OTU_218	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	Unclassified	40.85474349	NDVI	-0.320845988								Low pH
+OTU_2181	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	37.52582634	pH	0.204989257								High pH
+OTU_2186	Bacteria	Actinobacteriota	Actinobacteria	Kineosporiales	Kineosporiaceae	Unclassified	Unclassified	18.93908459	SOC									
+OTU_2189	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	JGI 0001001-H03	Unclassified	20.14919356	pH									
+OTU_219	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unclassified	Acidibacter	Unclassified	76.13140676	MAP						0.156219753	-0.173037938		
+OTU_22	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Unclassified	76.71603237	pH	-0.257803536			-0.173298711	0.37914653				Low pH low MAT
+OTU_220	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	62.84853031	TN	-0.274136594	0.272207768							Low pH high SOC
+OTU_2205	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	Unclassified	32.19439531	SOC	0.217663955						0.22288605		High PWetM
+OTU_2208	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	Unclassified	Unclassified	Unclassified	82.79176344	STempSeason	-0.22019328			0.172484368	-0.182116354		0.157151553		Low pH high SOC
+OTU_221	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	20.65015158	pH									
+OTU_2211	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Lechevalieria	Lentzea albidocapillata	39.55083356	pH	0.345990523		0.160223234		0.189477601				High pH and TN with low SOC
+OTU_221960	Bacteria	Acidobacteriota	Subgroup 5	Unclassified	Unclassified	Unclassified	Unclassified	73.58881904	TempSeason		-0.141422779							
+OTU_2220	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Unclassified	28.68432946	pH	0.297693445								High pH
+OTU_2222	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	Unclassified	21.64612372	STempSeason									
+OTU_2226	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	Unclassified	65.77619606	SOC	0.205660415							0.138111865	High pH
+OTU_2232	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	Unclassified	26.20899567	pH									
+OTU_2236	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unclassified	Acidibacter	Unclassified	52.91978405	pH						-0.147849408	0.230971242		High PWetM
+OTU_224	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	Unclassified	Unclassified	Unclassified	29.31708803	pH	-0.370095654	-0.156438067							Low pH
+OTU_225	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	61.0662294	pH	-0.346907274								Low pH
+OTU_2254	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Aeromicrobium	Unclassified	10.68621644	pH									
+OTU_2262	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Unclassified	-7.302582718	TN									
+OTU_2278	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	21.77684593	TN									
+OTU_229	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Unclassified	-5.256426686	SOC						-0.227546368		0.275363905	High NDVI
+OTU_23	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	40.80956651	Isothermality	-0.478309409	-0.142369464		-0.234836548	0.269045325		-0.148922125		Low pH low MAT
+OTU_23002	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	metagenome	Unclassified	67.89111159	SMaxTWarmM				-0.140004123					
+OTU_2308	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	Unclassified	45.49065243	SOC	-0.194233109	0.159400276					0.133302694		Low pH high SOC
+OTU_2322	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	Unclassified	58.12653983	PrecSeason	0.248106161		0.137450968	0.160798986					High pH
+OTU_233	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Unclassified	66.57189099	pH	-0.15950413	0.177042404			0.286516246				High MaxTWarmM
+OTU_2334	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Geodermatophilaceae	Blastococcus	Unclassified	32.21858877	NDVI									
+OTU_234	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	Unclassified	52.39931405	SMDR	-0.315947982	0.182310035		0.14327268				-0.171636799	Low pH high SOC
+OTU_2349	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	Unclassified	Unclassified	Unclassified	14.88612732	TN									
+OTU_2363	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	metagenome	51.57729285	pH	0.304882199								High pH
+OTU_2364	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Unclassified	Unclassified	57.50607817	MaxTWarmM					-0.150483784			-0.154863508	
+OTU_2369	Bacteria	Chloroflexi	TK10	bacterium Ellin6519	Unclassified	Unclassified	Unclassified	34.82289586	pH			0.184954693	0.2405542					
+OTU_237	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	Unclassified	49.96786255	pH	0.266777639	-0.209623175	0.408632002			-0.1401188			High pH and TN with low SOC
+OTU_2372	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	metagenome	Unclassified	31.51978995	TN	-0.138605434		-0.143159157						Low pH
+OTU_2373	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	53.90256864	SOC	0.146553429				0.290944055				High MaxTWarmM
+OTU_2376	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Actinoplanes	Actinoplanes derwentensis	16.41225134	TN									
+OTU_238	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	metagenome	Unclassified	Unclassified	63.37412222	SOC	-0.175105653			-0.139570274			-0.163867916		Low pH low MAT
+OTU_2383	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	14.98090497	Isothermality									
+OTU_2388	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Unclassified	metagenome	-5.2902736	pH									
+OTU_239	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	Lysinibacillus massiliensis	22.57425917	pH									
+OTU_2390	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Niastella	Unclassified	21.55379354	pH									
+OTU_2392	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Opitutus	metagenome	67.43080583	TN					0.169731576				High MaxTWarmM
+OTU_2396	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Leptothrix	metagenome	20.25400569	TN									
+OTU_2398	Bacteria	Desulfobacterota	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	41.16384851	pH				-0.263255695					
+OTU_24	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Unclassified	28.42918702	MeanTWetQ									
+OTU_240	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	Unclassified	37.25186835	pH	-0.33357409		-0.169045958						Low pH high SOC
+OTU_2406	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	20.30431891	PWetM									
+OTU_241	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	Pseudonocardia petroleophila	32.02254458	SOC	0.171574459								High pH
+OTU_2412	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	8.121589296	SOC									
+OTU_2422	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	34.11007318	TN	0.211729319	-0.16931967					0.156939201		High pH
+OTU_2423	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium	metagenome	21.47297606	TN									
+OTU_2425	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	metagenome	31.67021342	SOC	0.149702918	0.194605018		0.152556772					High SOC
+OTU_2433	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Terrimonas	Unclassified	58.91626877	SMeanTWarmQ	0.188387351	0.241708584							High SOC
+OTU_244	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	31.27439459	SMDR				-0.141278515	0.307251334			0.221349933	High MaxTWarmM
+OTU_245	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira	Nitrospira japonica	63.00535457	pH	0.41024536	-0.16394324	0.162182882				0.156683731		High pH and TN with low SOC
+OTU_246	Bacteria	Acidobacteriota	Holophagae	Subgroup 7	Unclassified	Unclassified	Unclassified	71.29188645	STAR				-0.201495567			-0.245017543		
+OTU_24631	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	66.05497176	pH	0.330197777	-0.149260565	0.184057359						High pH and TN with low SOC
+OTU_248	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	56.52453082	TN									
+OTU_2482	Bacteria	Myxococcota	Polyangia	Polyangiales	Sandaracinaceae	Unclassified	metagenome	21.34671047	pH									
+OTU_249	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	Unclassified	36.88499924	SIsothermality	-0.189925705		-0.145598675		-0.143717373	-0.201607215			Low pH
+OTU_2490	Bacteria	Desulfobacterota	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	30.97597583	PWarmQ	0.1991368		0.344752704						High pH
+OTU_2491	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	44.87009624	SMaxTWarmM	-0.241509183				-0.197180442		0.186526123		Low pH high SOC
+OTU_25	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	75.25403732	MDR								0.161024954	High NDVI
+OTU_25019	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	54.80182184	pH	-0.161243363		-0.142224955				-0.136560393		Low pH
+OTU_2505	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas aquatilis	2.8941783	MDR									
+OTU_2512	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	63.16123936	SIsothermality	0.15846326								High pH
+OTU_253	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	Unclassified	Unclassified	59.38247846	SOC		0.251266752							High SOC
+OTU_2533	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	Unclassified	30.29553909	pH									
+OTU_2535	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	metagenome	Unclassified	42.21923664	pH	0.308332773								High pH
+OTU_2541	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	74.88476508	SOC									
+OTU_2542	Bacteria	Acidobacteriota	Holophagae	Subgroup 7	Unclassified	Unclassified	Unclassified	13.73954796	pH									
+OTU_2544	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	Unclassified	55.01180023	PColdQ				0.135318585					
+OTU_2545	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Noviherbaspirillum	Unclassified	2.464748661	PDryM									
+OTU_255	Bacteria	Chloroflexi	Gitt-GS-136	Unclassified	Unclassified	Unclassified	Unclassified	50.03509676	PWetM	-0.229911114			-0.231849779			-0.315271071	0.169145831	Low pH low MAT
+OTU_2559	Bacteria	Myxococcota	Polyangia	Polyangiales	Sandaracinaceae	Unclassified	metagenome	37.26244806	pH	0.393346465								High pH
+OTU_2568	Bacteria	Firmicutes	Bacilli	Alicyclobacillales	Alicyclobacillaceae	Tumebacillus	Unclassified	12.99421856	pH									
+OTU_2574	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Unclassified	Unclassified	48.27499228	pH	0.134154599	-0.169397798			0.164408857				Low SOC
+OTU_2575	Bacteria	Myxococcota	Polyangia	MSB-4B10	Unclassified	Unclassified	Unclassified	47.34749517	NDVI	0.181330078				0.171698833			0.173764368	High pH
+OTU_2593	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Cohnella	Cohnella sp.	68.26295807	SOC	0.161755979	-0.295103812	0.232770736						High pH and TN with low SOC
+OTU_260	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	39.95172464	MAP	-0.257863993			0.17003643	-0.208551199		0.198404841		Low pH high SOC
+OTU_2600	Bacteria	Actinobacteriota	Actinobacteria	Catenulisporales	Catenulisporaceae	Catenulispora	Catenulispora acidiphila DSM 44928	-6.586830537	pH									
+OTU_26024	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Unclassified	Unclassified	71.20557654	PWetM		-0.169522287							
+OTU_261	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	32.34371507	pH	-0.320102291				0.154921083				Low pH
+OTU_2620	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	Unclassified	39.3192653	PrecSeason	0.199175978					-0.182176028	0.249335259		High pH
+OTU_2631	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Flavitalea	Unclassified	28.30475796	pH									
+OTU_264	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Microvirga	Microvirga ossetica	59.69325191	TN	0.391670152	-0.144438419	0.232125739						High pH and TN with low SOC
+OTU_26404	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	71.84699555	pH	0.302616762			0.160921922		-0.156374651			High pH
+OTU_2646	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unclassified	Acidibacter	Unclassified	61.16247513	pH									
+OTU_2647	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	Unclassified	Unclassified	9.152251614	pH									
+OTU_2651	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	72.94294498	pH									
+OTU_26598	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	68.8866348	pH	-0.330539436				-0.19551858				Low pH
+OTU_267	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	50.7056677	pH		-0.281614647	0.160479026		0.175541116				Low SOC
+OTU_26886	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	1.912763346	MDR									
+OTU_269	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	metagenome	Unclassified	Unclassified	59.81427213	STAR	-0.156831232							0.148258955	High NDVI
+OTU_2692	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	Unclassified	Unclassified	Unclassified	32.39140602	TN		-0.24686163		-0.143791952				0.144460351	Low SOC
+OTU_27	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	55.69314021	NDVI	-0.338921525		-0.201670501						Low pH high SOC
+OTU_2702	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	MND1	Unclassified	51.25529233	PColdQ							0.184744387		High PWetM
+OTU_271	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	61.22042667	SMDR	-0.299183583				-0.188130961				Low pH
+OTU_2710	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Iamiaceae	Iamia	Unclassified	28.63640169	MDR									
+OTU_272	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	Unclassified	39.70018321	Isothermality	-0.297772835						-0.135304908		Low pH
+OTU_273	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	57.31955737	MAP	-0.225118341								Low pH
+OTU_276	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unclassified	Acidibacter	Unclassified	36.00858151	SOC	0.213851042								High pH
+OTU_2761	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	Steroidobacter	Unclassified	52.50382176	pH	0.484945409		0.182526913						High pH
+OTU_27682	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	76.84701294	SMaxTWarmM	-0.23802543			-0.229678457					Low pH
+OTU_278	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	41.19554603	SOC	-0.44411212			-0.207418033	0.234080584		-0.143704414		Low pH low MAT
+OTU_2791	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Terrimonas	Unclassified	41.66729547	MAT				-0.19709857					
+OTU_2796	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	metagenome	15.41479561	pH									
+OTU_28	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	61.28562605	MeanTWarmQ	-0.405696603			-0.145481786	0.238604503				Low pH low MAT
+OTU_281	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	Unclassified	31.71939509	pH			0.156707793		-0.283144683	-0.136574257	0.190324912		
+OTU_2814	Bacteria	Actinobacteriota	Thermoleophilia	Unclassified	Unclassified	Unclassified	Unclassified	54.0704796	pH	0.138160409	-0.288557667	0.197079854						High pH and TN with low SOC
+OTU_2818	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	Unclassified	36.78271647	TN	0.22814324								High pH
+OTU_2819	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	Unclassified	64.56626933	TN	0.418346884		0.297400842				0.147773736		High pH
+OTU_282	Bacteria	Chloroflexi	KD4-96	Unclassified	Unclassified	Unclassified	Unclassified	41.06025456	SOC		-0.455285599	0.268287499	-0.255254033	0.175768988			0.175476842	Low SOC
+OTU_2820	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Terracidiphilus	Unclassified	31.93567589	pH									
+OTU_2837	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	metagenome	41.7877734	pH	-0.257536607	0.135137672			-0.190407996		0.149191284		Low pH high SOC
+OTU_2841	Bacteria	Chloroflexi	Dehalococcoidia	S085	metagenome	Unclassified	Unclassified	44.00848287	pH	0.212097277								High pH
+OTU_2846	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	42.7826951	STAR	0.288847943								High pH
+OTU_2854	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	Unclassified	92.75162288	PWetQ	-0.206071806					0.165280422		-0.169752262	Low pH
+OTU_2864	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	84.1666801	TempSeason									
+OTU_2867	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	48.74435524	MDR	0.535337671	-0.159364122	0.174982957				-0.142222075		High pH and TN with low SOC
+OTU_287	Bacteria	Proteobacteria	Gammaproteobacteria	CCD24	Unclassified	Unclassified	Unclassified	81.02960291	TN	0.496942703		0.278125667					0.155320316	High pH
+OTU_2871	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	Unclassified	Unclassified	Unclassified	56.22933772	MeanTWarmQ	-0.204456185				0.179419457				Low pH
+OTU_2872	Bacteria	Myxococcota	Polyangia	Polyangiales	BIrii41	metagenome	Unclassified	34.2623431	pH	0.354514081							0.204230535	High pH
+OTU_2876	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	36.48875166	pH							0.234629083		High PWetM
+OTU_288	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	57.02586292	pH						-0.144446757			
+OTU_2886	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Ellin6067	Unclassified	35.00556454	SIsothermality							0.173456863		High PWetM
+OTU_2888	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Actinomycetospora	Unclassified	21.22669573	TN									
+OTU_29	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	40.70663545	pH	-0.503909745			-0.182061835	0.173587212				Low pH low MAT
+OTU_290	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Kitasatospora	Kitasatospora sp. MMS16-BH015	43.75083151	STempSeason	-0.352369408								Low pH
+OTU_293	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus aryabhattai	13.31920985	SMeanTWetQ									
+OTU_29318	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	79.9917672	pH	0.235799119							0.215608727	High pH
+OTU_2948	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudorhodoplanes	Unclassified	26.75212774	pH									
+OTU_2950	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	Unclassified	Unclassified	71.1501494	MeanTWarmQ		0.229912503							High SOC
+OTU_2954	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudorhodoplanes	Unclassified	64.84811701	MaxTWarmM	0.334271242		0.150533424						High pH
+OTU_296	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Unclassified	3.341562993	pH									
+OTU_2968	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Unclassified	Unclassified	Unclassified	41.53213614	pH						-0.211749617	0.138314478		High PWetM
+OTU_2971	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	38.22785158	pH	0.25969781	-0.157076047	0.181460363				-0.197078869	0.150493127	High pH
+OTU_2974	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Unclassified	57.85392991	pH	0.243055634		0.207804063	0.159971123			0.181946659		High pH
+OTU_2978	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Unclassified	35.62016756	SOC	0.273992197								High pH
+OTU_298	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Unclassified	Unclassified	54.87631806	pH		0.148232365					0.240263663	-0.13493271	High SOC
+OTU_2986	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	Unclassified	20.18188198	TAR									
+OTU_299	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Unclassified	Unclassified	59.43938573	MeanTWarmQ	-0.139226758	0.236750254		0.206677237			0.174489812		Low pH high SOC
+OTU_2990	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Actinophytocola	Unclassified	5.236022166	STAR	0.169909282		0.160539282			-0.136696832	0.189815765		High pH
+OTU_3	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	66.31967557	pH	-0.45591384				0.239128461				Low pH low MAT
+OTU_301	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	65.86201799	SMaxTWarmM				-0.220962621					
+OTU_3010	Bacteria	Chloroflexi	TK10	Unclassified	Unclassified	Unclassified	Unclassified	47.09450698	MDR	0.214992827		0.208131995						High pH
+OTU_3016	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Unclassified	metagenome	39.8432563	PDryM									
+OTU_3033	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Unclassified	Unclassified	40.54757652	pH	0.31706394		0.193430036					0.204757685	High pH
+OTU_3036	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	90.83937632	TempSeason									
+OTU_304	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Dokdonella	Unclassified	48.30069657	SMaxTWarmM	-0.303884804	0.178926952	-0.170324808		-0.147175211				Low pH high SOC
+OTU_305	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	Unclassified	Unclassified	Unclassified	62.65517857	SOC	0.302145515		0.204814103						High pH
+OTU_3064	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira	Unclassified	14.8395863	pH									
+OTU_3065	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Nitrosospira	Unclassified	29.15118257	SIsothermality									
+OTU_3073	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Chthoniobacter	Unclassified	51.61008497	PWarmQ							0.149945842		High PWetM
+OTU_30899	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	44.26981735	STAR		0.255434765	-0.150453065	0.135716445			0.214799814		High SOC
+OTU_309	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	57.62158836	pH				-0.259294461					
+OTU_31	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Geodermatophilaceae	Blastococcus	Unclassified	53.76949613	pH	0.316378423					-0.135714317	0.140582745		High pH
+OTU_3123	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	Unclassified	48.69259724	PDryM	-0.221487535							-0.175399245	Low pH
+OTU_313	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	Unclassified	47.27802409	SMDR	-0.375902511		-0.235531293						Low pH high SOC
+OTU_3151	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	10.23619804	pH									
+OTU_3152	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	A0839	Unclassified	Unclassified	24.53161889	MDR									
+OTU_31547	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	58.46673236	pH		-0.168841999		-0.186105397			-0.196066522	0.166446792	Low SOC
+OTU_3155	Bacteria	NB1-j	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	48.47343793	TN	0.269856204		0.250457389						High pH
+OTU_316	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	26.19179515	TN									
+OTU_3165	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	metagenome	Unclassified	38.02262999	pH	0.191343666								High pH
+OTU_31687	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	metagenome	Unclassified	71.21379126	SMaxTWarmM	-0.227955294			-0.176296503				0.215815206	Low pH
+OTU_317	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	55.73244456	pH					-0.138053539	-0.134764755			
+OTU_3190	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	40.5028243	PrecSeason						-0.196658131	0.262967865		High PWetM
+OTU_32	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys	Unclassified	74.17087612	NDVI	-0.305366622								Low pH
+OTU_320	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	Unclassified	metagenome	82.74675854	PrecSeason		0.180448857			0.177659645	0.177761328	-0.26708748	0.148961562	High NDVI
+OTU_321	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Crossiella	Unclassified	31.24575795	pH									
+OTU_323	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Marmoricola	Unclassified	62.15631716	MDR					-0.223482267	-0.166897258		0.153533309	High NDVI
+OTU_325	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys	Unclassified	31.54572101	SMaxTWarmM									
+OTU_3252	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	31.21513929	PWetM	-0.135209448								Low pH
+OTU_326	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	64.04792674	STAR							0.141323034		High PWetM
+OTU_3260	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	30.38226085	TN		-0.155189319	0.138641074					0.169176849	Low SOC
+OTU_3273	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	TRA3-20	Unclassified	Unclassified	45.00074543	pH		0.264071007	-0.170701841			-0.279568449	0.285250764		High PWetM
+OTU_3278	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	TRA3-20	metagenome	Unclassified	21.87777241	TN									
+OTU_32871	Bacteria	Acidobacteriota	Subgroup 11	Unclassified	Unclassified	Unclassified	Unclassified	56.88448792	pH	0.31738125		0.144981063		-0.139814515			0.162025899	High pH
+OTU_329	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	metagenome	53.48949572	pH	0.197104892	-0.276109834	0.260400308					0.25806097	Low SOC
+OTU_33	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	Unclassified	57.37175327	NDVI	-0.303209771	0.146788779	-0.278694289		-0.136898304				Low pH high SOC
+OTU_3306	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Unclassified	Unclassified	30.32460345	SOC	0.319901325								High pH
+OTU_3314	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella	Unclassified	11.44763297	pH									
+OTU_3317	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	Caballeronia zhejiangensis	8.036850006	STempSeason									
+OTU_3325	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	Unclassified	53.75570797	SOC	0.390579665	-0.149970429	0.172309725	-0.150139406					High pH and TN with low SOC
+OTU_3333	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Sporichthyaceae	Sporichthya	Sporichthya polymorpha	31.45773856	TN							0.247812862		High PWetM
+OTU_3341	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	58.13642233	TempSeason									
+OTU_335	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Vicinamibacter	Unclassified	57.71245359	STAR							-0.26255662	0.191671997	High NDVI
+OTU_33524	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	55.10300183	pH	0.255364001				-0.200115697				High pH
+OTU_337	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	Unclassified	26.03699177	Isothermality									
+OTU_3381	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Flavisolibacter	Unclassified	47.0866782	PrecSeason		0.17207273				-0.243896116	0.270436914		High PWetM
+OTU_3388	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unclassified	Acidibacter	Unclassified	23.56380911	SOC									
+OTU_34	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	45.87831775	NDVI				-0.356958712	0.369012614		-0.228979525	0.2567394	High MaxTWarmM
+OTU_3404	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	30.56582164	pH	0.16311588							0.196564869	High pH
+OTU_3419	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Iamiaceae	Iamia	Unclassified	29.43433304	pH	0.197752848	-0.160238764	0.235071073						High pH and TN with low SOC
+OTU_342	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Ramlibacter	Ramlibacter sp.	52.43921366	PrecSeason		0.240811553					0.146255753		High SOC
+OTU_345	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	Stenotrophobacter	Unclassified	51.26147363	SOC	-0.320647647					0.137101532			Low pH
+OTU_3468	Bacteria	Myxococcota	bacteriap25	metagenome	Unclassified	Unclassified	Unclassified	36.17192568	pH	0.36505797		0.167580534			-0.135312682			High pH
+OTU_347	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	Rhizobium phaseoli	13.83513718	SOC									
+OTU_3471	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Chthoniobacter	bacterium Ellin507	40.90380495	SOC				-0.141149367	0.271165772			0.161755234	High MaxTWarmM
+OTU_348	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Ellin6055	metagenome	58.6712211	SOC									
+OTU_349	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	64.78325493	pH	-0.210003653				-0.14740108				Low pH
+OTU_3491	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Gemmata	metagenome	-11.80772732	SOC									
+OTU_3492	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Terracidiphilus	Unclassified	27.86146548	MAP	-0.213074843								Low pH
+OTU_3497	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	TRA3-20	Unclassified	Unclassified	34.5400747	pH	0.292184228	0.263682474	-0.166550773			-0.175161613	0.150564564		High PWetM
+OTU_35	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	39.4813671	PrecSeason	-0.246068994			-0.263942618					Low pH
+OTU_351	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Terrimonas	Unclassified	77.4959403	MeanTWarmQ	-0.390455197								Low pH
+OTU_3512	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Unclassified	33.77044581	TN					0.145993935		0.137293402		High PWetM
+OTU_352	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	metagenome	Unclassified	75.52272465	TN	0.315209186		0.168488175						High pH
+OTU_353	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	69.70532412	pH	-0.394737981								Low pH
+OTU_35349	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	45.89664933	SMaxTWarmM	-0.195969743								Low pH
+OTU_354	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	Nordella	Unclassified	68.22474088	pH	0.424433285	-0.281216417	0.211259496				0.143514946		High pH and TN with low SOC
+OTU_3557	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Noviherbaspirillum	Unclassified	12.52645139	SOC									
+OTU_357	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus weihaiensis	10.54164809	NDVI									
+OTU_3575	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	metagenome	27.83255552	pH							0.172210453		High PWetM
+OTU_358	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	38.99508724	TN	-0.342319325			-0.389517309	0.338117513				Low pH low MAT
+OTU_3582	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	Unclassified	Unclassified	Unclassified	48.07041565	TempSeason	-0.133962638								Low pH
+OTU_3584	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Singulisphaera	Unclassified	11.7379498	pH									
+OTU_359	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	bacterium Ellin7504	49.21556023	NDVI	-0.316963652								Low pH
+OTU_36	Bacteria	Acidobacteriota	Holophagae	Subgroup 7	Unclassified	Unclassified	Unclassified	60.70907234	SMDR	-0.210205198				-0.168125137		-0.17458072		Low pH
+OTU_3601	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Massilia putida	11.43866938	PrecSeason									
+OTU_3608	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Unclassified	Actinomycetales bacterium	Unclassified	17.43481302	TN									
+OTU_361	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Dactylosporangium	Unclassified	17.72400179	pH									
+OTU_3617	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	51.76381288	pH		0.162928267	-0.134143728	0.164191332			0.200431634		High SOC
+OTU_3619	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	25.63882123	MDR									
+OTU_362	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	Archangium	Archangium gephyra	31.8226271	STAR	0.421195839	0.195051124				-0.145779094			High pH
+OTU_3621	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	Unclassified	87.84262717	PDryM						0.156249893			
+OTU_3635	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Marmoricola	Marmoricola sp.	8.488609078	PWetM						-0.153816843	0.191953061		High PWetM
+OTU_366	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	68.45861678	SOC	-0.190471372			-0.297913285	0.307902042				Low pH low MAT
+OTU_367	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Microbacteriaceae	Galbitalea	Unclassified	-7.343000982	MeanTDryQ									
+OTU_3682	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Gemmata	Unclassified	13.88992589	TN									
+OTU_369	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	Unclassified	Unclassified	57.0831866	SOC		-0.366355844		-0.173361393			-0.202254693	0.166098325	Low SOC
+OTU_3699	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	-2.125799371	MeanTWetQ									
+OTU_37	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Piscinibacter	Unclassified	59.25653749	MeanTWarmQ		0.257537868	-0.181882183				0.146202303		High SOC
+OTU_371	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	Unclassified	24.20129496	TN									
+OTU_3716	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Noviherbaspirillum	Unclassified	28.30130238	SOC				0.22760815		-0.173344117	0.238345885		High PWetM
+OTU_3718	Bacteria	Chloroflexi	Dehalococcoidia	S085	metagenome	Unclassified	Unclassified	19.82439655	pH									
+OTU_372	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	Bradyrhizobium sp.	38.74870086	pH	-0.331137721	0.140858762	-0.165710071						Low pH high SOC
+OTU_373	Bacteria	Acidobacteriota	Holophagae	Subgroup 7	metagenome	Unclassified	Unclassified	-5.405922891	MeanTWetQ	0.242765833						0.13934636	0.177531095	High pH
+OTU_3737	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Unclassified	-2.028301623	TN									
+OTU_374	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	38.76359731	SMaxTWarmM			-0.178349822						
+OTU_376	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	23.40787464	pH									
+OTU_3765	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Gemmata	Gemmata sp. Fl1-1	15.50960771	PDryM									
+OTU_377	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	59.63303088	STAR	0.290470483					-0.205631638	0.178031427		High pH
+OTU_3770	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Ellin6055	Unclassified	33.71558129	MeanTWetQ		0.221915926			0.191582061				High MaxTWarmM
+OTU_38	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	51.10187604	pH	-0.458509303			-0.249535882	0.267429124				Low pH low MAT
+OTU_382	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	metagenome	Unclassified	50.64540067	PrecSeason		0.360820929	-0.276346953			-0.156756106	0.192628246		High PWetM
+OTU_383	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Sporichthyaceae	Unclassified	Unclassified	60.00639347	pH	-0.208536547	-0.165727936		-0.233392544			-0.133447166	0.20768451	Low pH low MAT
+OTU_3839	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	8.6079912	pH									
+OTU_384	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	39.15748466	MaxTWarmM	-0.262182927			-0.235539601			-0.134537163		Low pH low MAT
+OTU_385	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	Unclassified	Unclassified	83.10440654	SOC	0.214509835	-0.442162162	0.328924878	-0.162114267		0.142714394	-0.22359715		Low SOC
+OTU_386	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Unclassified	Unclassified	48.49962885	pH		-0.247403506		-0.215030405	0.249412242				Low SOC
+OTU_39	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	76.39496238	TN	0.223308285		0.227050442		-0.177858654				High pH
+OTU_390	Bacteria	Chloroflexi	Gitt-GS-136	Unclassified	Unclassified	Unclassified	Unclassified	52.28785383	MDR	0.202836614	-0.238876375	0.222574678						High pH and TN with low SOC
+OTU_391	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Actinoplanes	Actinoplanes friuliensis DSM 7358	28.02962905	TN									
+OTU_392	Bacteria	Actinobacteriota	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Streptosporangium	metagenome	32.35789538	SMaxTWarmM					-0.217956545	-0.208803592	0.198030479		
+OTU_393	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Unclassified	57.4145016	MAP	-0.233469168								Low pH
+OTU_394	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Asanoa	Unclassified	28.5714954	SMeanTWarmQ			0.164046356	-0.30613826	0.214819659		-0.176132249	0.13743235	High MaxTWarmM
+OTU_3948	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	23.0429036	NDVI									
+OTU_3989	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Unclassified	Unclassified	44.53259177	PrecSeason		0.244170175	-0.23634899			-0.172144914	0.218709443		High PWetM
+OTU_3990	Bacteria	Actinobacteriota	Thermoleophilia	Unclassified	Unclassified	Unclassified	Unclassified	29.21352641	pH	0.346743926		0.202931673						High pH
+OTU_39921	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	41.24416102	PColdQ	0.380394858								High pH
+OTU_4	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Unclassified	19.77875071	NDVI									
+OTU_40	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	metagenome	Unclassified	41.47973024	SMaxTWarmM									
+OTU_400	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Unclassified	19.23363115	pH									
+OTU_4005	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Unclassified	metagenome	-3.538653813	pH									
+OTU_403	Bacteria	Myxococcota	Polyangia	Polyangiales	Phaselicystidaceae	Phaselicystis	Unclassified	52.16766575	pH		0.209999784							High SOC
+OTU_405	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium	metagenome	41.29235809	TN									
+OTU_406	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	metagenome	Unclassified	22.08535754	TN									
+OTU_4062	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	metagenome	33.67023365	pH	0.230638156			-0.146381917					
+OTU_407	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Unclassified	38.17969994	pH	-0.229758179			-0.206928393	0.28695709			0.191733821	Low pH low MAT
+OTU_408	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	Unclassified	56.64692938	SMAT	0.150036401			-0.270742362					
+OTU_409	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	37.40551636	SOC			-0.237536354			-0.154355864	0.135082414		
+OTU_40982	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	30.15195238	MAP	0.171771309				-0.147403572	-0.135917977			High pH
+OTU_41	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	53.13409367	STAR	-0.144290254								Low pH
+OTU_411	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Unclassified	Unclassified	35.90556325	MAP	0.244057134					-0.21956095			High pH
+OTU_413	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	Ilumatobacter	metagenome	43.07725084	SMaxTWarmM		-0.278340993					-0.187869037	0.22345683	Low SOC
+OTU_4131	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	Unclassified	Unclassified	Unclassified	34.4027641	MeanTWarmQ	-0.20329867	0.16904772							Low pH high SOC
+OTU_4147	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	metagenome	26.89305747	MeanTWarmQ	-0.216947935								Low pH
+OTU_4149	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Unclassified	Unclassified	32.65734805	pH		0.278346143	-0.141186659				0.144684207		High SOC
+OTU_4150	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	Unclassified	Unclassified	24.16011493	TN									
+OTU_4168	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Chthoniobacter	Unclassified	29.98926701	SMDR	-0.201951473								Low pH
+OTU_417	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Unclassified	Unclassified	52.19003902	TN	0.168205068					-0.202835287	0.267620553		High pH
+OTU_418	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces atratus	18.01097399	Isothermality									
+OTU_4192	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	35.75559121	pH	-0.251130657							-0.154684366	Low pH
+OTU_42	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Unclassified	Unclassified	61.2673643	PDryQ					0.169299054		-0.149738566	0.190443785	High NDVI
+OTU_421	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Mesorhizobium	Mesorhizobium ciceri	38.93640219	pH									
+OTU_4213	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	mle1-7	Unclassified	29.60125789	SOC	0.162056246	0.148922999	-0.198463921			-0.199436309	0.238386782		High PWetM
+OTU_422	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	42.55203363	TN		0.186071222		0.16529761					High SOC
+OTU_423	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Unclassified	45.98469347	pH				-0.292341712	0.338421304	0.162697459	-0.156477879		High MaxTWarmM
+OTU_424	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	Unclassified	Unclassified	Unclassified	55.37332268	SOC	-0.153658487			-0.135232535	-0.153861869				Low pH
+OTU_427	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	63.75968952	SMDR	-0.294499104	0.152877381							Low pH high SOC
+OTU_4289	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	31.60127956	TN	-0.136681598								Low pH
+OTU_4308	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	54.20345608	pH	-0.183448086							-0.149286959	Low pH
+OTU_432	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Intrasporangiaceae	Knoellia	Unclassified	43.71145368	Isothermality	-0.35949656	-0.150833027		-0.200279979				0.15165189	Low pH
+OTU_4324	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	23.18156433	TN									
+OTU_4325	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella	Unclassified	8.25734121	pH									
+OTU_433	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Microscillaceae	Chryseolinea	Unclassified	78.10275051	STAR	0.153111339		0.161493823			0.158840047	-0.202529968		
+OTU_435	Bacteria	Proteobacteria	Alphaproteobacteria	Dongiales	Dongiaceae	Dongia	Unclassified	83.81718364	STAR	0.28082818	0.170117008						0.258920753	High pH
+OTU_436	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas yamanorum	29.47531873	PrecSeason	-0.232036934	-0.255306172	0.134329957				-0.14251968		Low pH
+OTU_437	Bacteria	Chloroflexi	KD4-96	Unclassified	Unclassified	Unclassified	Unclassified	56.41240653	Isothermality	-0.26628384			-0.271481234			-0.171847639	0.144360079	Low pH low MAT
+OTU_439	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	metagenome	38.99501549	SMAT				-0.266805823					
+OTU_4393	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Ellin6055	Unclassified	-3.606103628	SMinTColdM									
+OTU_44	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp.	47.84498075	pH	-0.433601443		-0.168684165						Low pH high SOC
+OTU_4406	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	Unclassified	68.25452768	MeanTWarmQ	-0.144215865	0.192353373							Low pH high SOC
+OTU_44068	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	9.644923416	TN									
+OTU_441	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	metagenome	Unclassified	4.953939	MeanTWetQ								0.162794802	High NDVI
+OTU_4413	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	-4.03950179	PrecSeason									
+OTU_4442	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	KF-JG30-B3	Unclassified	Unclassified	13.880151	TN									
+OTU_4462	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	3.170368818	SMeanTDryQ									
+OTU_447	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Ellin6067	Unclassified	43.33285784	TN		0.135597356		0.133947784			0.277892861		High SOC
+OTU_4480	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Xylophilus	Unclassified	10.60130607	TN			-0.133703304				0.190608565		
+OTU_4508	Bacteria	Actinobacteriota	Acidimicrobiia	Acidimicrobiales	Acidimicrobiaceae	Unclassified	Unclassified	23.42754305	Isothermality									
+OTU_4513	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	Unclassified	-6.713357439	SMDR									
+OTU_4523	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unclassified	Acidibacter	Unclassified	8.083851988	PrecSeason									
+OTU_4538	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	95.14886211	Isothermality									
+OTU_457	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	51.82456849	TN		0.144354649				-0.23887755	0.296630649		High PWetM
+OTU_4573	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	Unclassified	metagenome	28.94883719	TN	-0.179143017								Low pH
+OTU_459	Bacteria	Proteobacteria	Gammaproteobacteria	PLTA13	Unclassified	Unclassified	Unclassified	53.63675142	SOC	0.211883052						-0.184274281	0.173559971	High pH
+OTU_462	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Lysobacter	Unclassified	37.85616727	pH	0.264241192	-0.180298641	0.356313559		0.2699228				High pH and TN with low SOC
+OTU_465	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces turgidiscabies	65.36720049	SOC	0.260378052						0.215455304		High PWetM
+OTU_466	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	76.88880128	MDR	0.407390038	-0.203110518	0.167123504					0.155121982	High pH
+OTU_4686	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	-27.58892205	TN									
+OTU_47	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	Steroidobacter	Unclassified	47.95888471	pH	0.407526956		0.204235115		0.26397243				High pH and TN with low SOC
+OTU_473	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Intrasporangiaceae	Unclassified	Unclassified	51.11773361	STAR	-0.133338205							0.248527032	High NDVI
+OTU_4762	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	27.98131183	pH									
+OTU_477	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	metagenome	51.807721	SMaxTWarmM	-0.159003204		-0.14672179	-0.135826202					Low pH
+OTU_4779	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	57.61741686	TAR	0.322409699	-0.200316849	0.28819832						High pH and TN with low SOC
+OTU_48	Bacteria	Chloroflexi	KD4-96	Unclassified	Unclassified	Unclassified	Unclassified	65.99328771	Isothermality	-0.314229415	-0.213664767							Low pH
+OTU_480	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	57.06361632	TN		-0.20075218				-0.139844378			
+OTU_481	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	metagenome	41.58220065	NDVI	-0.334206851	0.155744091							Low pH high SOC
+OTU_486	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Unclassified	46.14860197	TN	-0.215971002	-0.159671967		-0.268310754	0.157141864		-0.163044786	0.188578267	Low pH low MAT
+OTU_487	Bacteria	RCP2-54	metagenome	Unclassified	Unclassified	Unclassified	Unclassified	53.10325523	SMaxTWarmM		0.206781044							High SOC
+OTU_4879	Bacteria	Planctomycetota	OM190	Unclassified	Unclassified	Unclassified	Unclassified	56.82818656	MDR	0.209326567		0.151297392	0.135022397	-0.13540312				High pH
+OTU_4883	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	66.03190805	pH									
+OTU_4888	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	37.27644054	pH									
+OTU_49	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Unclassified	soil metagenome	20.05392965	pH									
+OTU_4908	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	41.6355843	pH						-0.254086479	0.227962023		High PWetM
+OTU_492	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	Unclassified	47.38451907	pH	0.165448894		0.275358107						High pH
+OTU_4933	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	55.33739885	TempSeason									
+OTU_494	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	Unclassified	Unclassified	Unclassified	47.85129706	NDVI	-0.368992677			-0.191342914					Low pH
+OTU_4958	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	23.32266786	TN									
+OTU_499	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Luteimonas	Unclassified	37.43316978	pH	-0.14226276	0.150060986		-0.193554703			-0.135539368		Low pH low MAT
+OTU_5	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	43.27777085	pH	-0.459475117			-0.148027411	0.277275224				Low pH low MAT
+OTU_50	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	80.68994835	STAR	-0.325414494								Low pH
+OTU_500	Bacteria	Myxococcota	Polyangia	Polyangiales	BIrii41	metagenome	Unclassified	30.65053983	TN	-0.287248773								Low pH
+OTU_501	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Unclassified	7.974004279	pH					0.215793337	-0.201408234	0.280935765		High PWetM
+OTU_50124	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	metagenome	Unclassified	76.94920267	MDR	0.197703366	-0.227403963	0.190790693						High pH and TN with low SOC
+OTU_502	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	47.14011393	pH	0.211166069					-0.169461925			High pH
+OTU_5039	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	27.93637855	pH									
+OTU_504	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	MND1	Unclassified	70.24018537	pH	0.523166292				-0.231779052				High pH
+OTU_505	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	93.51137735	SMDR					0.253232863				High MaxTWarmM
+OTU_506	Bacteria	Myxococcota	bacteriap25	metagenome	Unclassified	Unclassified	Unclassified	80.8646132	SOC	0.286725799	-0.274683286	0.344177705	-0.15161778	0.183185076				High pH and TN with low SOC
+OTU_5060	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	Unclassified	28.006433	PDryQ	0.191494126		0.142490365		-0.15750963				High pH
+OTU_507	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	38.43079414	pH	-0.23222021			-0.244657661					Low pH
+OTU_5070	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	70.27744604	STempSeason		-0.144556095							
+OTU_508	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	metagenome	Unclassified	4.502278651	pH									
+OTU_5097	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	metagenome	11.74599	pH									
+OTU_511	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	90.27636109	MAP							-0.233855774	0.166532413	High NDVI
+OTU_51354	Bacteria	Acidobacteriota	Subgroup 5	Unclassified	Unclassified	Unclassified	Unclassified	75.52133509	MeanTWarmQ									
+OTU_515	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Unclassified	Unclassified	37.89076801	TN	0.145555687	0.176188814		-0.18369208					
+OTU_5159	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Unclassified	22.26307659	pH									
+OTU_5189	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Parafilimonas	Unclassified	6.753794856	SIsothermality									
+OTU_519	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	54.06759401	pH	0.479885688		0.140701339						High pH
+OTU_523	Bacteria	Desulfobacterota	Unclassified	metagenome	Unclassified	Unclassified	Unclassified	-11.72951502	SOC									
+OTU_524	Bacteria	Chloroflexi	KD4-96	Unclassified	Unclassified	Unclassified	Unclassified	40.75741962	PDryQ	-0.198671575	-0.22838616	0.137777646	-0.157321911			-0.253089402	0.246507044	Low pH low MAT
+OTU_525	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Unclassified	Unclassified	48.3452605	pH	-0.317740628	0.217667051							Low pH high SOC
+OTU_526	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	metagenome	50.0318214	pH									
+OTU_527	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	metagenome	39.36680997	pH	-0.154149445	0.173136959							Low pH high SOC
+OTU_53	Bacteria	Chloroflexi	KD4-96	metagenome	Unclassified	Unclassified	Unclassified	35.03964538	TN	-0.437562577	-0.263025565	0.17908939						Low pH
+OTU_530	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces lavendulae	19.16169234	TN									
+OTU_532	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Unclassified	25.62131455	SOC									
+OTU_533	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	76.30095132	pH	0.321168214	-0.275639722	0.324538568						High pH and TN with low SOC
+OTU_537	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Paenarthrobacter	Paenarthrobacter nitroguajacolicus	2.178769761	Isothermality	-0.205565571	-0.195991588		-0.143647276					Low pH
+OTU_53727	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	37.04354795	MeanTWarmQ		-0.220430945	0.229125965	-0.145317523	0.188260165				Low SOC
+OTU_539	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	Unclassified	Unclassified	49.35453439	pH	-0.303051087	0.194977676							Low pH high SOC
+OTU_54	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	metagenome	64.40007739	pH									
+OTU_540	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	Unclassified	54.72024365	pH			0.141927917		-0.259040885				
+OTU_541	Bacteria	Actinobacteriota	MB-A2-108	Unclassified	Unclassified	Unclassified	Unclassified	44.48708224	pH	0.419777938	-0.277696485	0.27414091						High pH and TN with low SOC
+OTU_543	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Psychrobacillus	Psychrobacillus psychrodurans	52.90974929	Isothermality					-0.261711817				
+OTU_5432	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Chthoniobacter	Unclassified	17.22559443	TempSeason									
+OTU_5436	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Xiphinematobacteraceae	Candidatus Xiphinematobacter	Unclassified	84.66454336	PWetM									
+OTU_5455	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	Unclassified	76.85204072	TempSeason	-0.173082812					0.21120757		-0.186174573	Low pH
+OTU_546	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Roseiarcus	Unclassified	57.26926616	MAP	-0.159692316				-0.1540649				Low pH
+OTU_5461	Bacteria	Chloroflexi	Dehalococcoidia	S085	metagenome	Unclassified	Unclassified	36.73279975	pH	0.288800351								High pH
+OTU_547	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	52.52842209	SOC	-0.336950941			-0.159691021	0.228722864				Low pH low MAT
+OTU_5471	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Unclassified	13.38050686	TN									
+OTU_550	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	metagenome	41.88802954	pH	-0.178664399			-0.169280047		-0.148770081		0.185035524	Low pH
+OTU_552	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus butanolivorans	18.15178022	Isothermality									
+OTU_555	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Aquisphaera	Unclassified	59.98565079	MAP	-0.218880527						0.178608912		Low pH high SOC
+OTU_556	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	42.80377355	SOC	0.156327709				-0.173839798				High pH
+OTU_5562	Bacteria	Acidobacteriota	Blastocatellia	44524	Unclassified	Unclassified	Unclassified	-23.3724893	pH									
+OTU_559	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	Unclassified	77.80704954	pH		0.135708227						0.210911856	High NDVI
+OTU_5593	Bacteria	Actinobacteriota	Thermoleophilia	Unclassified	Unclassified	Unclassified	Unclassified	45.71158763	pH		-0.164638937	0.162278495		0.179725185	-0.164574933			Low SOC
+OTU_5598	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	54.62431759	STempSeason									
+OTU_56	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	47.31590858	SOC	-0.373020169		-0.153940553	-0.149287139					Low pH
+OTU_560	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Kribbella	Unclassified	23.0222523	MAP									
+OTU_564	Bacteria	Actinobacteriota	Actinobacteria	Kineosporiales	Kineosporiaceae	Kineosporia	Unclassified	28.05814432	SMeanTWetQ	-0.206575658			-0.254659022			-0.230632203		Low pH low MAT
+OTU_565	Bacteria	Proteobacteria	Alphaproteobacteria	Azospirillales	Azospirillaceae	Skermanella	Unclassified	41.55349484	SOC	0.457173498	0.154509293					0.154445416		High pH
+OTU_567	Bacteria	Proteobacteria	Gammaproteobacteria	CCD24	metagenome	Unclassified	Unclassified	54.67514103	pH			0.246216978						
+OTU_567815	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	76.88143833	SMDR	-0.321548425								Low pH
+OTU_568	Bacteria	Proteobacteria	Alphaproteobacteria	Unclassified	bacterium enrichment culture clone Anammox 49	Unclassified	Unclassified	37.96608282	TN	0.164507506	-0.246879736	0.252616533	-0.135132119	0.167577662				High pH and TN with low SOC
+OTU_569	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Chthoniobacter	Unclassified	64.5731243	pH	-0.221130067				0.165716538		-0.19714386		Low pH
+OTU_57	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces lincolnensis	42.00548523	pH			0.138021547	0.235893484		-0.253999551	0.277263171		High PWetM
+OTU_572	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	metagenome	Unclassified	Unclassified	28.59807832	SOC									
+OTU_5771	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	Unclassified	Unclassified	16.99489728	SOC									
+OTU_5791	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	67.52856037	TempSeason									
+OTU_5792	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	-16.05516628	pH									
+OTU_58	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	41.7440335	pH						-0.159783233			
+OTU_5803	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	29.33371045	SMaxTWarmM									
+OTU_584	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Unclassified	7.588602764	pH									
+OTU_5847	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	28.80644694	pH									
+OTU_586	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unclassified	Acidibacter	Unclassified	59.33833009	pH	-0.286319098	0.159342803	-0.13380059				0.161407275		Low pH high SOC
+OTU_59	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	58.0540384	SMDR	-0.427673478		-0.204422931			-0.198066284			Low pH high SOC
+OTU_594	Bacteria	Proteobacteria	Alphaproteobacteria	Azospirillales	Azospirillaceae	Skermanella	Unclassified	25.64389469	TN									
+OTU_5947	Bacteria	Chloroflexi	TK10	bacterium Ellin6519	Unclassified	Unclassified	Unclassified	15.08832107	pH									
+OTU_599	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	Unclassified	70.8168375	SMDR	-0.320159506	0.187171082		0.157858772			0.138947885		Low pH high SOC
+OTU_6	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter alpinus	28.70661822	Isothermality	-0.324909501					-0.175123808			Low pH
+OTU_60	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	53.76726017	SOC	-0.195814665	-0.441375723	0.289883548	-0.175010341	0.266669418				Low SOC
+OTU_602	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Chthoniobacter	Unclassified	48.97558242	pH	-0.241249687			-0.257222443	0.348528549		-0.149692833		Low pH low MAT
+OTU_6021	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	32.87330978	pH	0.325975027			0.175939814					High pH
+OTU_6030	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Microbacteriaceae	Leifsonia	Leifsonia shinshuensis	-7.15957076	pH									
+OTU_604	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Unclassified	Unclassified	Unclassified	67.58356311	pH	-0.219569749	0.282043513		0.134651685	-0.18963336			-0.15028947	Low pH high SOC
+OTU_612	Bacteria	RCP2-54	metagenome	Unclassified	Unclassified	Unclassified	Unclassified	73.46284441	pH				-0.155089122				0.153702431	High NDVI
+OTU_613	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	31.27134122	TN									
+OTU_614	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Edaphobacter	Unclassified	19.51339978	TN									
+OTU_616	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	Unclassified	Unclassified	Unclassified	70.84831466	MeanTWarmQ	-0.139491486				0.170809685				Low pH
+OTU_6173	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	25.56425301	SMaxTWarmM		0.167288255	-0.160757221						High SOC
+OTU_619	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus acidiceler	59.07393735	SIsothermality		-0.182006767	0.232955671		0.248571616		0.188127714		Low SOC
+OTU_6194	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	-3.262629352	TAR				-0.148791825	0.192715335				High MaxTWarmM
+OTU_620	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella	Unclassified	59.44331784	SOC		-0.242937663			0.199648729				Low SOC
+OTU_622	Bacteria	Chloroflexi	AD3	Unclassified	Unclassified	Unclassified	Unclassified	19.66267683	SMDR									
+OTU_624	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Unclassified	12.00898099	pH									
+OTU_625	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	46.83470646	SOC		0.182805726			0.195986858				High MaxTWarmM
+OTU_626	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	metagenome	24.32248187	Isothermality									
+OTU_627	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Unclassified	Unclassified	52.62928807	pH	0.476924649		0.183012619				0.148604898		High pH
+OTU_628	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	Unclassified	Unclassified	70.02135406	SOC	0.16047362							0.206839746	High pH
+OTU_629	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Unclassified	Unclassified	54.99250942	pH	0.193724695	0.240144689					0.244325404		High PWetM
+OTU_63	Bacteria	Actinobacteriota	Rubrobacteria	Rubrobacterales	Rubrobacteriaceae	Rubrobacter	Unclassified	42.75984203	MAP	0.149055601				0.242903432	-0.179802689			High MaxTWarmM
+OTU_632745	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	Unclassified	61.83253522	pH	0.165105187						0.206359268		High PWetM
+OTU_633	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	metagenome	Unclassified	68.41422144	MeanTWarmQ	-0.216863162	0.209864156							Low pH high SOC
+OTU_6344	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	Burkholderia sp. KK1	17.42388628	SOC									
+OTU_638	Bacteria	Chloroflexi	Gitt-GS-136	Unclassified	Unclassified	Unclassified	Unclassified	59.01025511	PWetM	-0.211973463						-0.275989327	0.263193572	Low pH low MAT
+OTU_639	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella	Unclassified	74.96247816	pH	-0.199908188								Low pH
+OTU_64	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Roseiarcus	Unclassified	70.79981839	PDryM	-0.2780449				-0.14457979				Low pH
+OTU_640	Bacteria	Myxococcota	Polyangia	Polyangiales	BIrii41	metagenome	Unclassified	69.34818867	SOC		0.329202286	-0.202295258						High SOC
+OTU_641	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	TRA3-20	Unclassified	Unclassified	51.00253382	pH	0.181552169	0.16715863					0.159839088		High PWetM
+OTU_6415	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Kutzneria	Kutzneria albida DSM 43870	-24.4925423	pH									
+OTU_642	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Bosea	Bosea vestrisii	18.87139496	pH									
+OTU_643	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Ellin6067	Unclassified	55.77801646	MeanTWetQ		0.25827364					0.139112151		High SOC
+OTU_644	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Geodermatophilaceae	Modestobacter	Unclassified	9.582005321	SOC									
+OTU_645	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Microvirga	Unclassified	55.89831811	STempSeason	0.245147851				0.154512849	-0.183036512	0.222537934		High pH
+OTU_646	Bacteria	Chloroflexi	KD4-96	metagenome	Unclassified	Unclassified	Unclassified	56.51913705	SOC	-0.14754692	-0.257075252	0.221650265						Low SOC
+OTU_647	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	Unclassified	54.62059844	TN	0.304614967			0.171742753		-0.142863932	0.253865469		High pH
+OTU_648	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	Unclassified	Unclassified	Unclassified	48.16526377	pH									
+OTU_65	Bacteria	Chloroflexi	KD4-96	metagenome	Unclassified	Unclassified	Unclassified	65.21739491	TN	-0.225034734	-0.306392197	0.139011665	-0.21157609			-0.263773723	0.257563347	Low pH low MAT
+OTU_650	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Caenimonas	Unclassified	30.1416271	MDR		0.286125517	-0.15858714	0.180010526	-0.200463826	-0.170672621	0.268468171		High SOC
+OTU_651	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	Unclassified	49.60527058	TN	-0.269790661						0.191431085		Low pH high SOC
+OTU_652	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	57.98178951	STAR	-0.167959117			0.153912593	-0.156705667		0.13772347		Low pH high SOC
+OTU_6522	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Unclassified	Unclassified	36.04510687	STempSeason		-0.146672183							
+OTU_654	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	49.43305092	pH	0.418614		0.189148432	0.141580241					High pH
+OTU_656	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	72.90692952	MDR	0.493392954	-0.2797235	0.296320115						High pH and TN with low SOC
+OTU_659	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Unclassified	Unclassified	56.29818389	pH	-0.366391214	0.157552404	-0.141763576	-0.220318402					Low pH
+OTU_66	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	Unclassified	67.80269311	SMaxTWarmM									
+OTU_660	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	metagenome	56.81608569	pH	-0.261715803						0.13438356	-0.147888424	Low pH
+OTU_6615	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Unclassified	Unclassified	-4.475986925	SMeanTWarmQ									
+OTU_6617	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	56.62172112	Isothermality	-0.303997985	-0.265709074		-0.19165467	0.171318614		-0.14969147		Low pH low MAT
+OTU_662	Bacteria	Chloroflexi	Dehalococcoidia	S085	metagenome	Unclassified	Unclassified	28.26784915	SOC		0.236324765							High SOC
+OTU_6626	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	Unclassified	Unclassified	-2.73530693	SOC									
+OTU_663	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	51.6656544	MDR	0.388769589	-0.186282657	0.285569782		0.157583191				High pH and TN with low SOC
+OTU_664	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	43.32166563	pH	-0.325424844								Low pH
+OTU_665	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Rhizobacter	Unclassified	49.14206387	pH	-0.201316956	0.292779614	-0.199440802						High SOC
+OTU_6661	Bacteria	Chloroflexi	JG30-KF-CM66	metagenome	Unclassified	Unclassified	Unclassified	22.54758552	pH									
+OTU_667	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	Unclassified	21.36165194	NDVI									
+OTU_6694	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	Unclassified	83.94336451	STempSeason		-0.144851575							
+OTU_67	Bacteria	Actinobacteriota	MB-A2-108	metagenome	Unclassified	Unclassified	Unclassified	38.19492193	PDryQ			-0.212617628	-0.17753417	0.155060037		-0.139098794	0.25144044	High NDVI
+OTU_671	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Unclassified	Unclassified	34.41140401	pH				-0.238311562	0.176159796			0.233454788	High MaxTWarmM
+OTU_676	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	Nordella	Unclassified	29.24089884	pH									
+OTU_67851	Bacteria	Acidobacteriota	Subgroup 5	Unclassified	Unclassified	Unclassified	Unclassified	60.55343547	MeanTWarmQ									
+OTU_6787	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	-1.478236902	TN									
+OTU_6798	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	31.86933217	pH									
+OTU_68	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	58.32235253	NDVI		0.157656882			-0.226340132				
+OTU_68058	Bacteria	Acidobacteriota	Subgroup 5	Unclassified	Unclassified	Unclassified	Unclassified	41.18658427	SOC		0.165618172							High SOC
+OTU_6809	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Aquisphaera	Unclassified	27.07580811	SMDR									
+OTU_681	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Unclassified	20.31656493	SOC									
+OTU_682	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium celatum	4.212441	MAP									
+OTU_686	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	metagenome	32.25073516	pH			0.136165872		0.164553736	-0.168642173	0.227496981	0.228788921	High PWetM
+OTU_687	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Ellin6067	Unclassified	47.89622353	pH			-0.151862956	-0.191853071					
+OTU_688	Bacteria	Acidobacteriota	Blastocatellia	44524	Unclassified	Unclassified	Unclassified	38.99997206	PDryQ	-0.205157468			-0.153977206			-0.228489837	0.180724923	Low pH low MAT
+OTU_6888	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	Unclassified	28.78800155	PWarmQ			-0.17052395				0.13364352		
+OTU_6924	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	Paraburkholderia sprentiae WSM5005	13.04025412	PWetQ									
+OTU_6928	Bacteria	Chloroflexi	KD4-96	Unclassified	Unclassified	Unclassified	Unclassified	-16.72818022	pH									
+OTU_6966	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	27.6845939	pH									
+OTU_699	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	WX65	Unclassified	Unclassified	53.30967122	pH					-0.152885706			0.227523565	High NDVI
+OTU_7	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus circulans	22.846043	NDVI									
+OTU_7013	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	69.28780997	pH	0.425921026								High pH
+OTU_703	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Unclassified	Unclassified	51.58017429	MeanTDryQ		0.188424871					0.162148893	-0.136675095	High SOC
+OTU_705	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	38.23180986	pH	-0.271336234			-0.20428381			-0.139718896		Low pH low MAT
+OTU_706	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Vicinamibacter	Unclassified	57.99751465	TN	0.177056307	-0.152983897						0.178830456	High pH
+OTU_707	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	55.51077192	pH	0.267878437		0.146197872			-0.170948445	0.265501431		High pH
+OTU_709	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Microbacteriaceae	Galbitalea	Unclassified	20.91709116	Isothermality									
+OTU_71	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium sp.	55.15520942	pH	-0.162775782			-0.285996466	0.210672723			0.175517032	Low pH low MAT
+OTU_710	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	metagenome	Unclassified	17.86821926	pH									
+OTU_714	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	58.00526975	pH	-0.203760561				0.224388965				Low pH
+OTU_71499	Bacteria	Acidobacteriota	Subgroup 5	Unclassified	Unclassified	Unclassified	Unclassified	33.41646875	SMDR			0.245984396				0.161265835		
+OTU_7182	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	Unclassified	-0.441354532	NDVI									
+OTU_719	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	50.34618318	pH	0.29721604	-0.182929202	0.200437697				0.138641181		High pH and TN with low SOC
+OTU_72	Bacteria	Myxococcota	bacteriap25	metagenome	Unclassified	Unclassified	Unclassified	84.37222202	pH	0.229229335	-0.176247216	0.297828025						High pH and TN with low SOC
+OTU_725	Bacteria	MBNT15	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	52.82543979	PDryM		0.183430774							High SOC
+OTU_727	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	Unclassified	metagenome	42.77687878	pH	-0.270888487								Low pH
+OTU_729	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	Unclassified	Unclassified	Unclassified	77.05936417	STAR	0.312639106	-0.134227066							High pH
+OTU_7297	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	Unclassified	Unclassified	9.410473378	NDVI									
+OTU_73	Bacteria	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	59.35979101	STAR								0.237423106	High NDVI
+OTU_731	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	metagenome	66.59096079	pH			-0.154969556						
+OTU_7386	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	31.50936997	MAP	-0.197296396			0.157108795	-0.152247744		0.166034963		Low pH high SOC
+OTU_739	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Unclassified	Unclassified	66.29471073	STempSeason	-0.233092038			0.264069301	-0.221134457	-0.172383785	0.226822159		Low pH high SOC
+OTU_74	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis	-4.590692049	Isothermality	-0.354820978			-0.151148776		0.193055464	-0.196550234		Low pH low MAT
+OTU_7407	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	Unclassified	46.14909113	pH	-0.208846241								Low pH
+OTU_741	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	Unclassified	45.85024534	pH	0.33025209	-0.187543761	0.204608337	-0.133651903			-0.15207246		High pH and TN with low SOC
+OTU_742	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	54.12729709	pH	0.246062539	-0.242675638	0.154327821						High pH and TN with low SOC
+OTU_74264	Bacteria	Acidobacteriota	Subgroup 5	Unclassified	Unclassified	Unclassified	Unclassified	73.48635926	SOC	-0.241169678								Low pH
+OTU_7428	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	Burkholderia pseudomallei	33.35905219	SOC									
+OTU_744	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Lysobacter	Lysobacter dokdonensis	47.63123925	pH									
+OTU_745	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Pseudarthrobacter	Arthrobacter sp. YN	38.88100093	SOC						-0.221411827	0.288957292		High PWetM
+OTU_75	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	Unclassified	Unclassified	47.96980329	MDR				0.250000231	-0.137839581		0.154200927		
+OTU_750	Bacteria	Chloroflexi	TK10	Unclassified	Unclassified	Unclassified	Unclassified	34.23138636	SOC			0.134870189					0.17356971	High NDVI
+OTU_752	Bacteria	Chloroflexi	KD4-96	Unclassified	Unclassified	Unclassified	Unclassified	37.80240654	NDVI				0.150834396		-0.180911083		0.140702646	High NDVI
+OTU_7523	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium	Unclassified	2.232224354	pH									
+OTU_753	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	37.72322697	pH	0.293310883		0.143884213			-0.175712103	0.184613769		High pH
+OTU_7559	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	Unclassified	66.49297771	MAP	-0.139653238								Low pH
+OTU_76	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	actinobacterium WWH12	47.7181239	SOC		-0.297288107	0.18408932					0.205082649	Low SOC
+OTU_767801	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	Unclassified	55.96788714	SMeanTWetQ		0.231930685	-0.143660234						High SOC
+OTU_769	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Ellin6055	metagenome	41.1136907	pH	-0.284145267			-0.315170197	0.290942948		-0.222524248		Low pH low MAT
+OTU_77	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	metagenome	52.57262882	SMDR	-0.333611782	0.197977209	-0.229908519		-0.197443744				Low pH high SOC
+OTU_771	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	50.70198347	TN	0.187429695			-0.200168664				0.20513096	High pH
+OTU_772	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	68.88796745	MeanTWarmQ			0.191086362		0.24188123				High MaxTWarmM
+OTU_775	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	31.70513657	SMDR	-0.349888575								Low pH
+OTU_776	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	Aridibacter	Unclassified	63.1743074	SOC		0.186211823			0.14883211	-0.166699901	0.202269122		High PWetM
+OTU_78	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Arenimicrobium luteum	63.0923082	pH	0.16105295					-0.220145464	0.30994745		High pH
+OTU_7841	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	43.33038448	SOC				-0.137815091	0.233005109				High MaxTWarmM
+OTU_787	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Psychroglaciecola	metagenome	75.57164068	pH	0.137774619				0.182094501				High MaxTWarmM
+OTU_789	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	Unclassified	72.2535994	pH	0.448928331	-0.175892845	0.152426172	-0.180526213		0.177683662			High pH and TN with low SOC
+OTU_79	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys	Unclassified	70.6066556	NDVI						-0.140604154		0.253628097	High NDVI
+OTU_792	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Flavitalea	Unclassified	53.75719269	pH		0.206052285				-0.163875301	0.217697572		High PWetM
+OTU_7928	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Geodermatophilaceae	Geodermatophilus	Unclassified	55.22906536	NDVI		0.135291462					0.137008567		High SOC
+OTU_797	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhizobiales bacterium GAS113	Unclassified	68.69247777	pH	-0.272082777				-0.157558052				Low pH
+OTU_799	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	71.90474647	SOC			0.160353344	0.191819313					
+OTU_8	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	78.49979598	NDVI	-0.312750261							0.138131112	Low pH
+OTU_800	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Vicinamibacter	Unclassified	55.2541868	pH	0.342476943	-0.171889157					0.148787212		High pH
+OTU_801	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unclassified	Acidibacter	Unclassified	44.7065533	TN	0.202957258		0.162672373						High pH
+OTU_803	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Unclassified	Unclassified	78.18812443	pH	0.411022872	-0.251825985	0.322933537				0.157601604		High pH and TN with low SOC
+OTU_805	Bacteria	Proteobacteria	Alphaproteobacteria	Unclassified	Unclassified	Unclassified	Unclassified	47.14751241	pH	-0.258412248	0.214487004	-0.186739512						High SOC
+OTU_8094	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	Unclassified	metagenome	20.37536681	TN									
+OTU_810	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	59.8635599	PrecSeason	-0.147761019	0.144208071	-0.209065442	-0.141375856		-0.195728542	0.149629084		High PWetM
+OTU_813	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Marmoricola	Unclassified	42.91663017	MDR	0.174438935				-0.162368691	-0.161949705	0.23770828		High pH
+OTU_814	Bacteria	Chloroflexi	Gitt-GS-136	Unclassified	Unclassified	Unclassified	Unclassified	70.73485015	PWetQ	0.33845339		0.209415407	0.165441096					High pH
+OTU_815	Bacteria	Actinobacteriota	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinocorallia	metagenome	39.86773208	SMeanTWetQ				-0.157352796				0.206449563	High NDVI
+OTU_8153	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	Unclassified	78.49783438	PWetQ	-0.174665677								Low pH
+OTU_817	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	69.58670154	pH	-0.383009508								Low pH
+OTU_8212	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Flavisolibacter	Unclassified	27.23695166	SOC									
+OTU_828	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	Unclassified	Unclassified	Unclassified	66.42496402	PDryQ			0.272530641						
+OTU_829	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Amycolatopsis	Amycolatopsis mediterranei S699	50.89534011	PrecSeason					0.208022918	-0.159751832	0.148921041	0.155244629	High PWetM
+OTU_83	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methyloligellaceae	Unclassified	Unclassified	73.86582154	pH	0.423472072	-0.25567094	0.420196145	-0.193161753	0.165491546				High pH and TN with low SOC
+OTU_831	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	53.85070911	SMaxTWarmM	-0.232605174			-0.281456203					Low pH
+OTU_838	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	Hyphomicrobium facile	40.91796704	pH	-0.217426752	0.164621575			-0.190336284		0.201816172		Low pH high SOC
+OTU_840	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	Caulobacter henricii	26.43058266	pH									
+OTU_845	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	80.43144255	pH	0.412691677	-0.18896832	0.263934439						High pH and TN with low SOC
+OTU_846	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	Unclassified	52.72204192	MeanTWarmQ			0.182491202		0.170624056			0.21200184	High NDVI
+OTU_847	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Unclassified	Unclassified	Unclassified	61.62487339	SMAT				-0.309971819					
+OTU_85	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Massilia timonae	-19.53495831	TN									
+OTU_855	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	22.72485018	pH									
+OTU_856	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Flavisolibacter	Unclassified	63.79503635	pH		0.226977452				-0.162448914	0.210099981		High PWetM
+OTU_857	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	Unclassified	Unclassified	55.14300049	SOC	0.14393545	-0.32353378							High pH
+OTU_858	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp.	32.30787887	SOC						-0.168100296			
+OTU_860	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Mesorhizobium	Mesorhizobium huakuii	33.91628266	pH				-0.184878007				0.150906276	High NDVI
+OTU_862	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Sporichthyaceae	Unclassified	Unclassified	26.65933677	Isothermality	-0.187681105	-0.195523366		-0.205054079					Low pH
+OTU_865	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	metagenome	61.13626393	TN									
+OTU_866	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	55.23066102	pH	-0.405906648				0.157975329				Low pH low MAT
+OTU_868	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Ellin6055	Unclassified	40.19018994	NDVI		0.209852321			0.159177397	-0.192126559	0.221983939		High PWetM
+OTU_869	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Ellin6055	Unclassified	45.08346763	pH				-0.347283491	0.214020179			0.18904612	High MaxTWarmM
+OTU_870	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	48.90768933	PWetQ						-0.197942963			
+OTU_872	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces aureus	22.55200577	TN									
+OTU_874	Bacteria	Chloroflexi	KD4-96	Unclassified	Unclassified	Unclassified	Unclassified	47.32589192	pH	-0.220858356	-0.280957548				-0.212040618	0.142501666	0.169255125	Low pH
+OTU_876	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella	Unclassified	49.2517585	MeanTWarmQ	-0.192067545	0.223337142		0.149329357			0.157829434		Low pH high SOC
+OTU_88	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	7.153765813	TN									
+OTU_881	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	Stenotrophobacter	Unclassified	49.85321789	TN	-0.256392588								Low pH
+OTU_8820	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	Unclassified	Unclassified	Unclassified	45.87057273	pH	-0.201280722								Low pH
+OTU_883	Bacteria	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	Subgroup 10	Unclassified	37.72075021	pH	0.347442149					-0.156021976	0.146572563	0.138585109	High pH
+OTU_8880	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	8.823399224	TN									
+OTU_89	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Arenimonas	Unclassified	-13.00003239	SMDR									
+OTU_891	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Kribbella	Kribbella karoonensis	-0.221408018	MeanTColdQ	-0.204860294		-0.155273381	-0.165639945	0.221351607				Low pH
+OTU_899	Bacteria	NB1-j	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	69.7314629	pH	0.391183274	-0.17561186	0.357691307			0.13314078			High pH and TN with low SOC
+OTU_9	Bacteria	Chloroflexi	KD4-96	Unclassified	Unclassified	Unclassified	Unclassified	65.08319039	Isothermality	-0.307999874	-0.271658046	0.18242511	-0.168625469			-0.216653311	0.183336215	Low pH low MAT
+OTU_900	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	metagenome	34.09101461	pH									
+OTU_901	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	Unclassified	Unclassified	Unclassified	42.76537803	MDR	0.280272665	-0.151524301				-0.150138747	0.266575041		High pH
+OTU_904	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	metagenome	Unclassified	-27.68205533	MeanTDryQ									
+OTU_906	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	metagenome	Unclassified	68.93036607	PDryQ		0.194756584							High SOC
+OTU_907	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	27.50014139	MeanTWetQ	-0.264376531	0.158581826			-0.169072913				Low pH high SOC
+OTU_91	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methyloligellaceae	Unclassified	Unclassified	44.16327752	NDVI	-0.145505327								Low pH
+OTU_910	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Unclassified	Unclassified	34.53178381	PWetQ	0.188211344	0.138991751		0.208205564		-0.143031152			High pH
+OTU_9159	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Unclassified	Unclassified	0.919935088	MAP									
+OTU_923	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	46.54077612	pH	-0.264742415		-0.190404939	-0.185550316	0.189078383				Low pH
+OTU_926	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	Unclassified	Unclassified	37.28275777	SMaxTWarmM	-0.163110189				-0.202313629				Low pH
+OTU_928	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	Unclassified	44.42156445	STAR	-0.133212392	0.139427992	-0.134450662						High SOC
+OTU_930	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp.	29.91731418	SOC			-0.168297927						
+OTU_9370	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	Unclassified	3.185083973	SOC	-0.190548158								Low pH
+OTU_94	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	Unclassified	Unclassified	63.27399713	PWetM					0.170509758		-0.242841426		
+OTU_945	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Ramlibacter	Ramlibacter sp.	47.56105704	SMaxTWarmM	0.162100035	0.156008828					0.219363664		High PWetM
+OTU_95	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Xylophilus	metagenome	46.89171368	pH		0.183599428			-0.273851723				
+OTU_953	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Unclassified	metagenome	Unclassified	51.60236085	TN		0.138970957					-0.186381248		
+OTU_954	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	Unclassified	37.17616607	SOC	-0.179564161					-0.203329581	0.156541046		Low pH
+OTU_9544	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	52.44256995	PWetQ									
+OTU_955	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	Unclassified	44.82702553	TN		0.173742197					0.140499621		High SOC
+OTU_956	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	Unclassified	44.14100007	SOC	-0.373091472	-0.170357528		-0.268877235	0.269349519				Low pH low MAT
+OTU_957	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Ellin6055	Unclassified	64.75388903	SMAT				-0.367852508	0.198555699		-0.154363558		High MaxTWarmM
+OTU_96	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Unclassified	33.27349952	pH	0.185311771		0.163639357				0.141147215		High pH
+OTU_960	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Unclassified	Unclassified	35.47289306	TN	0.142563349			-0.197029439	0.227126281				High MaxTWarmM
+OTU_961	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	Unclassified	Unclassified	51.15599322	MaxTWarmM	0.228560413	0.235990797			0.251706919				High MaxTWarmM
+OTU_962	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	49.68230845	pH	0.188554135							0.154151137	High pH
+OTU_966	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas mali	49.71406394	pH	-0.344834065								Low pH
+OTU_967	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	Paraburkholderia xenovorans LB400	28.20405948	pH									
+OTU_968	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	Unclassified	Unclassified	Unclassified	28.16538881	SMeanTDryQ									
+OTU_97	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Ellin6055	metagenome	61.5630983	TN				-0.151282848	0.183657347				High MaxTWarmM
+OTU_977	Bacteria	Desulfobacterota	Desulfuromonadia	Geobacterales	Geobacteraceae	Citrifermentans	Unclassified	25.77813501	pH									
+OTU_98	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	Unclassified	Unclassified	69.1292096	pH	0.287377398	-0.225325445	0.216463757		0.211187193				High pH and TN with low SOC
+OTU_981	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Iamiaceae	Iamia	Unclassified	66.75773913	SOC	0.191675484						-0.142735426	0.302017474	High pH
+OTU_982	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	Unclassified	35.87136715	SMaxTWarmM			-0.177227402	-0.198993138				0.14426653	High NDVI
+OTU_983	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	Unclassified	1.710025639	MeanTWarmQ									
+OTU_99	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Unclassified	Unclassified	55.84326785	pH	-0.178830785				0.208054929				Low pH
+OTU_991	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Unclassified	Unclassified	Unclassified	12.50244345	NDVI									
+OTU_992	Bacteria	Chloroflexi	TK10	Unclassified	Unclassified	Unclassified	Unclassified	22.54355273	MAP									
+OTU_993	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Unclassified	Unclassified	Unclassified	35.42846741	TN	-0.158395451								Low pH
